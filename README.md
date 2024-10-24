@@ -94,15 +94,6 @@ Nicht erledigt ❌ | Erledigt (min. 1 Monat) ✔️ | Verbesserungen nötig 🔧
 
 ## Design
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="./images-readme/1.png" alt="Apollo Logo" width="600" style="margin: 10px;">
-  <img src="./images-readme/6.png" alt="Apollo Logo" width="600" style="margin: 10px;">
-  <img src="./images-readme/2.png" alt="NIH NCI Logo" width="600" style="margin: 10px;">
-  <img src="./images-readme/3.png" alt="NVIDIA Logo" width="600" style="margin: 10px;">
-  <img src="./images-readme/4.png" alt="3D Slicer Logo" width="600" style="margin: 10px;">
-  <img src="./images-readme/5.png" alt="MONAI Logo" width="600" style="margin: 10px;">
-</div>
-
 ## Transformer
 
 ### 1. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018)
