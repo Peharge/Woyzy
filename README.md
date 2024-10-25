@@ -35,6 +35,11 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
   <img src="./static/images/woyzy-banner6.png" alt="woyzy" width="1400" style="margin: 10px;">
 </div>
 
+<audio controls>
+  <source src="output_20241025195644_xtts.wav" type="audio/wav">
+  Ihr Browser unterstützt das Audio-Element nicht.
+</audio>
+
 ## News
 
 - **[2024.10.24]** Start ;-)
