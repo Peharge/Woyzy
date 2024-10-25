@@ -35,7 +35,10 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
   <img src="./static/images/woyzy-banner6.png" alt="woyzy" width="1400" style="margin: 10px;">
 </div>
 
-[Audio-Datei herunterladen](output_20241025195644_xtts.wav)
+<audio controls>
+  <source src="https://yourdomain.com/path/to/output_20241025195644_xtts.wav" type="audio/wav">
+  Ihr Browser unterstützt das Audio-Element nicht.
+</audio>
 
 ## News
 
@@ -80,6 +83,10 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
     ```
   
 ## Demo
+
+<p align="center">
+    <img src="./img-readme/Screenshot 2024-10-25 161951.png" width="800"/>
+</p>
 
 ## Checkliste
 
