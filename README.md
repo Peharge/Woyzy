@@ -35,7 +35,13 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
   <img src="./static/images/woyzy-banner6.png" alt="woyzy" width="1400" style="margin: 10px;">
 </div>
 
-[Audio-Datei herunterladen](output_20241025195644_xtts.wav)
+<audio controls>
+  <source src="./output_20241025195644_xtts.mp3" type="audio/mp3">
+  Ihr Browser unterstützt das Audio-Element nicht.
+</audio>
+
+[Hier klicken, um die Audio-Datei herunterzuladen](output_20241025195644_xtts.wav)
+
 
 ## News
 
