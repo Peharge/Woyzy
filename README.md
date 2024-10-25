@@ -32,7 +32,7 @@ Ich hatte Lust, einen Chatbot zu bauen, der alle Fragen zu Woyzeck beantwortet. 
 Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überzeugende Ausrede ;-)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="./static/images/woyzy-banner5.png" alt="woyzy" width="1400" style="margin: 10px;">
+  <img src="./static/images/woyzy-banner6.png" alt="woyzy" width="1400" style="margin: 10px;">
 </div>
 
 ## News
