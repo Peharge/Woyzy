@@ -87,14 +87,12 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
   
 ## Demo
 
-## Video-Beispiel
-
 <p align="center">
     <img src="./img-readme/Screenshot 2024-10-25 161951.png" width="800"/>
 </p>
 
 <video controls width="600">
-  <source src="output_20241025195644_xtts.mkv" type="video/mkv">
+  <source src="woyzy-video0001-0300.mkv" type="video/mkv">
   Ihr Browser unterstützt das Video-Element nicht.
 </video>
 
