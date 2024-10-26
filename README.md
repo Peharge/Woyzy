@@ -59,6 +59,7 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 - **[2024.10.24]** Start ;-)
 
 ## Inhaltsverzeichnis
+- [Versionen](#versionen)
 - [Installation](#installation)
 - [Benutzung](#benutzung)
 - [Demo](#demo)
@@ -69,6 +70,19 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 - [Lizenz](#lizenz)
 
 ---
+
+## Versionen
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./static/images/woyzy-banner10.png" alt="woyzy" width="1400" style="margin: 10px;">
+</div>
+
+
+| **Model**   | **Beschreibung** | **Paramter** |
+|-------------|-----------------|--------------|
+| Woyzy 1 3B  |                 | 3B           |
+| Woyzy 1 11B |                 | 11B          |
+
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="./static/images/woyzy-banner9.png" alt="woyzy" width="1400" style="margin: 10px;">
@@ -104,7 +118,7 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 ## Demo
 
 <p align="center">
-    <img src="./img-readme/Screenshot 2024-10-25 161951.png" width="800"/>
+    <img src="./img-readme/Screenshot 2024-10-25 161951.png" width="1400"/>
 </p>
 
 <video controls width="600">
@@ -115,7 +129,7 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 ## Geschichte
 
 <p align="center">
-    <img src="./static/images/peharge-image-semi.png" width="800"/>
+    <img src="./static/images/peharge-image-semi.png" width="1400"/>
 </p>
 
 ## Checkliste
