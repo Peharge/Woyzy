@@ -47,20 +47,21 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 
 - **[2024.10.24]** Start ;-)
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="./static/images/woyzy-banner8.png" alt="woyzy" width="1400" style="margin: 10px;">
-</div>
-
 ## Inhaltsverzeichnis
 - [Installation](#installation)
 - [Benutzung](#benutzung)
 - [Demo](#demo)
+- [Geschichte](#geschichte)
 - [Checkliste](#checkliste)
 - [Design](#design)
 - [Transformer](#transformer)
 - [Lizenz](#lizenz)
 
 ---
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./static/images/woyzy-banner8.png" alt="woyzy" width="1000" style="margin: 10px;">
+</div>
 
 ## Installation
 
@@ -100,6 +101,11 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
   Ihr Browser unterstützt das Video-Element nicht.
 </video>
 
+## Geschichte
+
+<p align="center">
+    <img src="./static/images/peharge-image-semi.png" width="800"/>
+</p>
 
 ## Checkliste
 
