@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Woyzy</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <script src="main-code.js" defer></script> <!-- JavaScript einbinden -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <link rel="icon" type="image/png" href="images/peharge-logo3.4.png" />
+
+    <style>
+        body {
+            font-family: Calibri, sans-serif;
+            background-image: url('/static/images/woyzy-banner6.png'); /* Hintergrundbild setzen */
+            background-size: cover; /* Bild an den Bildschirm anpassen */
+            background-repeat: no-repeat; /* Bild nicht wiederholen */
+            background-position: center; /* Bild zentrieren */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .taskbar {
+            position: absolute;
+            bottom: 50px; /* Taskleiste um 50px nach oben verschoben */
+            left: 50%; /* Zentriert horizontal */
+            transform: translateX(-50%); /* Korrektur für horizontale Zentrierung */
+            width: 80%; /* 30% der Breite des Bildschirms */
+            height: 15%;
+            max-width: 80%;
+            max-height: 60%;
+            background: rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(10px); /* Glas-Effekt */
+            border-radius: 25px; /* Abgerundete Ecken auf allen Seiten */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 3px 8px 5px 0px rgba(0, 0, 0, 0.2);
+        }
+
+
+.chat-container {
+    width: 70%;
+    max-width: 90%;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 70%;
+}
+
+.chat-output {
+    flex: 1;
+    background-color: rgba(0, 0, 0, 0);
+    overflow-y: auto;               /* Scrollen ermöglichen */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 15px;                  /* Innenabstand für die Nachrichten */
+    max-height: 100%;               /* Höhe maximal auf 100% der .chat-container setzen */
+}
+
+.message-box {
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 16px;
+    max-width: 65%;
+    word-wrap: break-word;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.message-box.user {
+    float: right;
+    background-color: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    color: #ffffff;
+    text-align: right;
+}
+
+.message-box.bot {
+    background-color: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    color: #ffffff;
+}
+
+
+
+        .input-area {
+            display: flex;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0);
+        }
+        select, input[type="text"] {
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 16px;
+            margin-right: 5%; /* Abstand von 20% auf der linken Seite */
+        }
+
+        .custom-select {
+            position: relative; /* Position relativ für das Dropdown */
+                height: 60px; /* Höhe des ausgewählten Bereichs */
+            width: 200px; /* Breite des Dropdowns */
+            border: none; /* Keine Rahmenlinie */
+            border-radius: 6px; /* Abgerundete Ecken */
+            background-color: transparent; /* Hintergrundfarbe transparent */
+            color: #fff; /* Textfarbe */
+            cursor: pointer; /* Zeiger-Cursor */
+            margin-right: 3%; /* Abstand von 20% auf der linken Seite */
+        }
+
+        .select-selected {
+            height: 50px; /* Höhe des ausgewählten Bereichs */
+            display: flex; /* Flexbox für Ausrichtung */
+            align-items: center; /* Vertikale Ausrichtung */
+            padding: 0px 7px; /* Innenabstand */
+            border-radius: 6px; /* Abgerundete Ecken */
+            background-color: rgba(0, 0, 0, 0.1); /* Durchsichtiger Hintergrund */
+            color: #fff; /* Textfarbe */
+            font-size: 15px; /* Schriftgröße */
+            box-shadow: 3px 3px 10px rgba(0, 0, 0, 1),
+                        -1px -1px 6px rgba(255, 255, 255, 0.4); /* Schatten */
+        }
+
+        .select-items {
+            position: absolute; /* Absolute Positionierung */
+            background-color: rgba(0, 0, 0, 0.2); /* Durchsichtiger Hintergrund */
+            backdrop-filter: blur(10px); /* Glas-Effekt */
+            border-radius: 15px; /* Abgerundete Ecken */
+            z-index: 99; /* Z-Index, um sicherzustellen, dass es oben ist */
+            width: 400px; /* Vollständige Breite */
+            max-height: 400px; /* Maximale Höhe für Dropdown */
+            overflow-y: auto; /* Scrollen bei Überlauf */
+            color: #fff; /* Textfarbe */
+            margin-top: -470px; /* Negativer Rand nach oben */
+            margin-left: 450px; /* Negativer Rand nach oben */
+        }
+
+        .select-option {
+            padding: 10px; /* Innenabstand für Optionen */
+            cursor: pointer; /* Zeiger-Cursor */
+            margin-top: -5px; /* Negativer Rand nach oben */
+        }
+
+        /* Hover-Effekt für Optionen */
+        .select-option:hover {
+            background-color: rgba(255, 255, 255, 0.2); /* Hintergrundfarbe beim Hover */
+                backdrop-filter: blur(10px); /* Glas-Effekt */
+        }
+
+        .select-hide {
+            display: none; /* Dropdown ausblenden */
+        }
+
+
+
+        .container-usern {
+            display: flex;
+            flex-direction: column;
+            gap: 7px;
+            position: relative;
+            color: white;
+        }
+
+        .container-usern .label {
+            font-size: 15px;
+            padding-left: 10px;
+            position: absolute;
+            top: 13px;
+            transition: 0.3s;
+            pointer-events: none;
+        }
+
+        .input {
+            width: 950px;
+            height: 50px;
+            max-width: 950px;
+            max-height: 300px;
+            border: none;
+            outline: none;
+            padding: 0px 7px;
+            border-radius: 6px;
+            color: #fff;
+            font-size: 15px;
+            background-color: transparent;
+            box-shadow: 3px 3px 10px rgba(0,0,0,1),
+            -1px -1px 6px rgba(255, 255, 255, 0.4);
+            text-shadow: 3px 3px 10px rgba(0, 0, 0, 1),  /* Schwarzer starker Schatten */
+            -1px -1px 6px rgba(255, 255, 255, 0.4); /* Weißer subtiler Schatten */
+        }
+
+        .input:focus {
+            border: 2px solid transparent;
+            color: #fff;
+            box-shadow: 3px 3px 10px rgba(0,0,0,1),
+            -1px -1px 6px rgba(255, 255, 255, 0.4),
+            inset 3px 3px 10px rgba(0,0,0,1),
+            inset -1px -1px 6px rgba(255, 255, 255, 0.4);
+        }
+
+        .container-usern .input:valid ~ .label,
+        .container-usern .input:focus ~ .label {
+        transition: 0.3s;
+        padding-left: 2px;
+        transform: translateY(-35px);
+        }
+
+        .container-usern .input:valid,
+        .container-usern .input:focus {
+        box-shadow: 3px 3px 10px rgba(0,0,0,1),
+        -1px -1px 6px rgba(255, 255, 255, 0.4),
+        inset 3px 3px 10px rgba(0,0,0,1),
+        inset -1px -1px 6px rgba(255, 255, 255, 0.4);
+        }
+        .loading {
+            display: none; /* Standardmäßig ausgeblendet */
+            text-align: center;
+            font-size: 18px;
+            margin: 10px 0;
+        }
+        .chat-output::-webkit-scrollbar {
+            width: 8px;
+        }
+        .chat-output::-webkit-scrollbar-thumb {
+            background-color: #888;
+            border-radius: 10px;
+        }
+        .chat-output::-webkit-scrollbar-thumb:hover {
+            background-color: #555;
+        }
+        button {
+            display: flex; /* Flexbox für einfache Ausrichtung */
+            align-items: center; /* Vertikale Zentrierung */
+            justify-content: center; /* Horizontale Zentrierung */
+            border: none;
+            width: 100px;
+            height: 45px;
+            border-radius: 25px;
+            padding: 0px 7px;
+            color: #fff;
+            font-size: 15px;
+            background-color: transparent;
+            box-shadow: 3px 3px 10px rgba(0, 0, 0, 1), -1px -1px 6px rgba(255, 255, 255, 0.4);
+            margin-left: 5%; /* Abstand von 20% auf der linken Seite */
+        }
+
+        button:hover {
+            border: 2px solid transparent;
+            color: #fff;
+            box-shadow: 3px 3px 10px rgba(0,0,0,1),
+            -1px -1px 6px rgba(255, 255, 255, 0.4),
+            inset 3px 3px 10px rgba(0,0,0,1),
+            inset -1px -1px 6px rgba(255, 255, 255, 0.4);
+            text-shadow: 3px 3px 10px rgba(0, 0, 0, 1),  /* Schwarzer starker Schatten */
+            -1px -1px 6px rgba(255, 255, 255, 0.4); /* Weißer subtiler Schatten */
+        }
+        /* From Uiverse.io by kennyotsu */
+        .card {
+            display: none;
+            background-color: rgba(0, 0, 0, 0.2); /* Durchsichtiger Hintergrund */
+            backdrop-filter: blur(10px); /* Glas-Effekt */
+            padding: 1rem 2rem;
+            border-radius: 1.25rem;
+
+            /* Zentrierungs-Stile */
+            position: absolute; /* Ändere dies zu absolute */
+            top: 50%;           /* Positioniere oben in der Mitte */
+            left: 50%;          /* Positioniere links in der Mitte */
+            transform: translate(-50%, -50%); /* Verschiebe um die Hälfte der Größe */
+        }
+        .loader {
+          color: #ffffff;
+          font-family: "Poppins", sans-serif;
+          font-weight: 500;
+          font-size: 25px;
+          -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+          height: 40px;
+          padding: 10px 10px;
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          border-radius: 8px;
+        }
+
+        .words {
+          overflow: hidden;
+          position: relative;
+        }
+        .words::after {
+          content: "";
+          position: absolute;
+          inset: 0;
+          background: linear-gradient(
+            var(--bg-color) 10%,
+            transparent 30%,
+            transparent 70%,
+            var(--bg-color) 90%
+          );
+          z-index: 20;
+        }
+
+        .word {
+          display: block;
+          height: 100%;
+          padding-left: 6px;
+          color: #956afa;
+          animation: spin_4991 4s infinite;
+        }
+
+        @keyframes spin_4991 {
+          10% {
+            -webkit-transform: translateY(-102%);
+            transform: translateY(-102%);
+          }
+
+          25% {
+            -webkit-transform: translateY(-100%);
+            transform: translateY(-100%);
+          }
+
+          35% {
+            -webkit-transform: translateY(-202%);
+            transform: translateY(-202%);
+          }
+
+          50% {
+            -webkit-transform: translateY(-200%);
+            transform: translateY(-200%);
+          }
+
+          60% {
+            -webkit-transform: translateY(-302%);
+            transform: translateY(-302%);
+          }
+
+          75% {
+            -webkit-transform: translateY(-300%);
+            transform: translateY(-300%);
+          }
+
+          85% {
+            -webkit-transform: translateY(-402%);
+            transform: translateY(-402%);
+          }
+
+          100% {
+            -webkit-transform: translateY(-400%);
+            transform: translateY(-400%);
+          }
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-output" id="output"></div>
+        <div class="card" id="loading">
+          <div class="loader">
+            <p>loading</p>
+            <div class="words">
+              <span class="word">Peharge</span>
+              <span class="word">Chat++</span>
+              <span class="word">Solution</span>
+              <span class="word">JK</span>
+              <span class="word">MG</span>
+            </div>
+          </div>
+        </div>
+        <div class="taskbar">
+        <div class="custom-select">
+            <div class="select-selected">Wähle ein Modell</div>
+            <div class="select-items">
+                {% for model, value in models.items() %}
+                    <div class="select-option" data-value="{{ model }}">{{ model }}</div>
+                {% endfor %}
+            </div>
+        </div>
+        <select id="model-selector" style="display: none;">
+            {% for model, value in models.items() %}
+                <option value="{{ model }}">{{ model }}</option>
+            {% endfor %}
+        </select>
+
+
+            <div class="container-usern">
+                <input required="" type="text" id="user-input" name="username" class="input" required>
+                <label class="label">Woyzy...</label>
+            </div>
+            <button onclick="sendMessage()">Senden</button>
+        </div>
+    </div>
+
+    <script>
+        function appendToOutput(text, userType = 'user') {
+            const output = document.getElementById('output');
+            const messageBox = document.createElement('div');
+            messageBox.className = `message-box ${userType}`;
+            messageBox.innerText = text;
+            output.appendChild(messageBox);
+            output.scrollTop = output.scrollHeight;  // Scroll automatisch nach unten
+        }
+
+        function sendMessage() {
+            const userInput = document.getElementById('user-input').value;
+            const modelSelector = document.getElementById('model-selector').value;
+            const loadingIndicator = document.getElementById('loading');
+
+            if (!userInput) return;
+
+            appendToOutput(userInput, 'user');  // Nachricht des Benutzers anzeigen
+            loadingIndicator.style.display = 'block'; // Ladeanimation anzeigen
+
+            fetch('/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    message: userInput,
+                    model: modelSelector
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                loadingIndicator.style.display = 'none'; // Ladeanimation ausblenden
+                if (data.error) {
+                    appendToOutput('Fehler: ' + data.error, 'bot');
+                } else {
+                    appendToOutput(data.response, 'bot');  // Antwort des Bots anzeigen
+                }
+            })
+            .catch(error => {
+                loadingIndicator.style.display = 'none'; // Ladeanimation ausblenden
+                appendToOutput('Fehler: ' + error, 'bot');
+            });
+
+            document.getElementById('user-input').value = '';  // Eingabefeld leeren
+        }
+        document.addEventListener('DOMContentLoaded', function () {
+        const selected = document.querySelector('.select-selected');
+        const items = document.querySelector('.select-items');
+
+        // Dropdown öffnen/schließen
+        selected.addEventListener('click', function () {
+            items.classList.toggle('select-hide'); // Toggle Dropdown
+        });
+
+        // Optionen auswählen
+        document.querySelectorAll('.select-option').forEach(option => {
+            option.addEventListener('click', function () {
+                selected.innerHTML = this.innerHTML; // Aktuelle Auswahl setzen
+                items.classList.add('select-hide'); // Dropdown schließen
+            });
+        });
+
+        // Schließe das Dropdown, wenn außerhalb geklickt wird
+        document.addEventListener('click', function (event) {
+            if (!event.target.matches('.select-selected')) {
+                items.classList.add('select-hide'); // Dropdown schließen
+            }
+        });
+    });
+
+    </script>
+</body>
+</html>
