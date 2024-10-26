@@ -121,26 +121,26 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 ### Instalation:
 
 ### 1. Klone das Repository:
-    ```bash
+```bash
     git https://github.com/Peharge/Woyzy
-    ```
+   ```
 ### 2. Navigiere in das Projektverzeichnis:
-    ```bash
+```bash
     cd Woyzy
-    ```
+```
 
 ### 3. Starte das Projekt:
-    ```bash
+```bash
     python main.py
-    ```
+```
 
 ## Benutzung
 
 - Stelle sicher, dass alle Abhängigkeiten installiert sind. 
 - Öffne die URL, die Flask im Terminal nach der Ausführung von    
-    ```bash
+```bash
     python main.py
-    ```
+```
   bereitstellt.
 - Wenn du auf die URL im Terminal klickst, sollte sich dein Browser öffnen und die Woyzy-Umgebung anzeigen.
 - Viel Spaß!
