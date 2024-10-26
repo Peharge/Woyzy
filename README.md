@@ -7,20 +7,20 @@
 <br>
 <br>
 
-<img alt="" src="https://img.shields.io/badge/Python 3.13-gray?&logo=Python&logoColor=white%5BPython">
-<img alt="" src="https://img.shields.io/badge/-C++-gray?logo=cplusplus">
-<img alt="" src="https://img.shields.io/badge/-C-gray?logo=c">
+<img alt="" src="https://img.shields.io/badge/Python-3.12-blue?&logo=Python&logoColor=white%5BPython">
+<img alt="" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
+<img alt="" src="https://img.shields.io/badge/-C-blue?logo=c">
 <br>
 <br>
 
-<img alt="" src="https://img.shields.io/badge/PyTorch-gray?logo=PyTorch">
+<img alt="" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
 <img alt="" src="https://img.shields.io/badge/FLask-F7DF1E?style=flat&logo=flask&logoColor=black">
-<img alt="" src="https://img.shields.io/badge/PyCharm-gray?logo=PyCharm&logoColor=white">
-<img alt="" src="https://img.shields.io/badge/GitHub-gray?logo=github">
+<img alt="" src="https://img.shields.io/badge/PyCharm-black?logo=PyCharm&logoColor=white">
+<img alt="" src="https://img.shields.io/badge/GitHub-black?logo=github">
 <br>
 <br>
 
-<img alt="" src="https://img.shields.io/badge/linux%20%7C%20macOS%20%7C%20windows-gray">
+<img alt="" src="https://img.shields.io/badge/os-linux%20%7C%20macOS%20%7C%20windows-blue">
 <br>
 <br>
 
@@ -30,7 +30,7 @@
 <br>
 <br>
 
-[![License](https://img.shields.io/badge/licenseMIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 <br>
 </div>
 
