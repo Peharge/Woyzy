@@ -87,6 +87,7 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="./static/images/woyzy-banner9.png" alt="woyzy" width="1400" style="margin: 10px;">
 </div>
+<br>
 
 > Woyzy ist noch in der Entwicklung und noch nicht in diesem Repository hinterlegt. Wenn Sie daher die folgenden Schritte ausführen, wie z.B. das Klonen des Repositories, werden Sie lediglich die README-Datei, Bilder und bereits veröffentlichte Codes installieren!
 
