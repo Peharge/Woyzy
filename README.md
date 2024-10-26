@@ -7,20 +7,20 @@
 <br>
 <br>
 
-<img alt="" src="https://img.shields.io/badge/Python 3.13-black?&logo=Python&logoColor=white%5BPython">
-<img alt="" src="https://img.shields.io/badge/-C++-black?logo=cplusplus">
-<img alt="" src="https://img.shields.io/badge/-C-black?logo=c">
+<img alt="" src="https://img.shields.io/badge/Python 3.13-gray?&logo=Python&logoColor=white%5BPython">
+<img alt="" src="https://img.shields.io/badge/-C++-gray?logo=cplusplus">
+<img alt="" src="https://img.shields.io/badge/-C-gray?logo=c">
 <br>
 <br>
 
-<img alt="" src="https://img.shields.io/badge/PyTorch-black?logo=PyTorch">
+<img alt="" src="https://img.shields.io/badge/PyTorch-gray?logo=PyTorch">
 <img alt="" src="https://img.shields.io/badge/FLask-F7DF1E?style=flat&logo=flask&logoColor=black">
-<img alt="" src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white">
-<img alt="" src="https://img.shields.io/badge/GitHub-black?logo=github">
+<img alt="" src="https://img.shields.io/badge/PyCharm-gray?logo=PyCharm&logoColor=white">
+<img alt="" src="https://img.shields.io/badge/GitHub-gray?logo=github">
 <br>
 <br>
 
-<img alt="" src="https://img.shields.io/badge/linux%20%7C%20macOS%20%7C%20windows-black">
+<img alt="" src="https://img.shields.io/badge/linux%20%7C%20macOS%20%7C%20windows-gray">
 <br>
 <br>
 
