@@ -74,7 +74,7 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 ## Versionen
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="./static/images/woyzy-banner10.png" alt="woyzy" width="1400" style="margin: 10px;">
+  <img src="./static/images/woyzy-banner14.png" alt="woyzy" width="1400" style="margin: 10px;">
 </div>
 
 
