@@ -2,24 +2,35 @@
     <img src="./img-readme/woyzy-logo2.png" width="500"/>
 </p>
 <div align="center">
-<img alt="SMON" src="https://img.shields.io/badge/Woyzy-blue">
-<img alt="Peharge" src="https://img.shields.io/badge/TG-Lörrach-red">
+<img alt="SMON" src="https://img.shields.io/badge/Woyzy-F7DF1E">
+<img alt="Peharge" src="https://img.shields.io/badge/TG Lörrach-red">
 <br>
 <br>
 
-<img alt="" src="https://img.shields.io/badge/Python-3.12-blue?&logo=Python&logoColor=white%5BPython">
-<img alt="" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
-<img alt="" src="https://img.shields.io/badge/-C-blue?logo=c">
+<img alt="" src="https://img.shields.io/badge/Python 3.13-black?&logo=Python&logoColor=white%5BPython">
+<img alt="" src="https://img.shields.io/badge/-C++-black?logo=cplusplus">
+<img alt="" src="https://img.shields.io/badge/-C-black?logo=c">
 <br>
 <br>
 
-<img alt="" src="https://img.shields.io/badge/Jupyter-notebook-brightgreen">
-<img alt="" src="https://img.shields.io/badge/Google-Colab-red">
-<img alt="" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue">
+<img alt="" src="https://img.shields.io/badge/PyTorch-black?logo=PyTorch">
+<img alt="" src="https://img.shields.io/badge/FLask-F7DF1E?style=flat&logo=flask&logoColor=black">
+<img alt="" src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white">
+<img alt="" src="https://img.shields.io/badge/GitHub-black?logo=github">
 <br>
 <br>
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<img alt="" src="https://img.shields.io/badge/linux%20%7C%20macOS%20%7C%20windows-black">
+<br>
+<br>
+
+<img alt="" src="https://img.shields.io/badge/-Hugging Face-FDEE21?logo=HuggingFace&logoColor=black">
+<img alt="" src="https://img.shields.io/badge/Jupyter notebook-orange">
+<img alt="" src="https://img.shields.io/badge/Google Colab-red">
+<br>
+<br>
+
+[![License](https://img.shields.io/badge/licenseMIT-blue.svg)](https://opensource.org/licenses/MIT)
 <br>
 </div>
 
