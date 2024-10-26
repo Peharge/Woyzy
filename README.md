@@ -83,13 +83,11 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 | Woyzy 1 3B  |                 | 3B           |
 | Woyzy 1 11B |                 | 11B          |
 
----
+## Installation
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="./static/images/woyzy-banner9.png" alt="woyzy" width="1400" style="margin: 10px;">
 </div>
-
-## Installation
 
 1. Klone das Repository:
     ```bash
