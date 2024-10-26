@@ -85,7 +85,7 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 ## Installation
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="./static/images/woyzy-banner18.png" alt="woyzy" width="1400" style="margin: 10px;">
+  <img src="./static/images/woyzy-banner20.png" alt="woyzy" width="1400" style="margin: 10px;">
 </div>
 <br>
 
