@@ -47,6 +47,10 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 
 - **[2024.10.24]** Start ;-)
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./static/images/woyzy-banner8.png" alt="woyzy" width="1400" style="margin: 10px;">
+</div>
+
 ## Inhaltsverzeichnis
 - [Installation](#installation)
 - [Benutzung](#benutzung)
