@@ -63,7 +63,6 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 - [Installation](#installation)
 - [Benutzung](#benutzung)
 - [Demo](#demo)
-- [Geschichte](#geschichte)
 - [Checkliste](#checkliste)
 - [Design](#design)
 - [Transformer](#transformer)
@@ -76,12 +75,12 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="./static/images/woyzy-banner6.png" alt="woyzy" width="1400" style="margin: 10px;">
 </div>
+<br>
 
-
-| **Model**   | **Beschreibung** | **Paramter** |
-|-------------|-----------------|--------------|
-| Woyzy 1 3B  |                 | 3B           |
-| Woyzy 1 11B |                 | 11B          |
+| **Model**   | **Beschreibung**                                    | **Parameter** |
+|-------------|-----------------------------------------------------|--------------|
+| Woyzy 1 3B  | +8GB RAM +2GB storage (Funktioniert mit einer CPU)  | 3B           |
+| Woyzy 1 11B | +16GB RAM +6GB storage (Funktioniert mit einer CPU) | 11B          |
 
 ## Installation
 
@@ -89,47 +88,78 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
   <img src="./static/images/woyzy-banner9.png" alt="woyzy" width="1400" style="margin: 10px;">
 </div>
 
-1. Klone das Repository:
+> Woyzy ist noch in der Entwicklung und noch nicht in diesem Repository hinterlegt. Wenn Sie daher die folgenden Schritte ausführen, wie z.B. das Klonen des Repositories, werden Sie lediglich die README-Datei, Bilder und bereits veröffentlichte Codes installieren!
+
+> Um Woyzy in Zukunft erfolgreich installieren zu können, benötigen Sie die folgenden Programme:
+> 
+> 1. **Git**  
+>    Git kann hier heruntergeladen werden:  
+>    https://git-scm.com
+> 
+> 2. **Python**  
+>    - Für Windows-Benutzer: Python kann entweder über den Microsoft Store oder direkt von der Python-Website installiert werden:  
+>      https://www.python.org  
+>    - Für Linux-Benutzer: Python ist in der Regel auf den meisten Linux-Distributionen vorinstalliert. Falls nicht, kann es über den Paketmanager oder die oben genannte Website installiert werden.
+>  
+> 3. **Python-Entwicklungsumgebung (IDE)**  
+>    Eine Entwicklungsumgebung, die Python unterstützt, ist sehr empfehlenswert. Hier sind zwei beliebte Optionen:  
+>    - **Visual Studio Code**: Eine kostenlose, anpassbare IDE von Microsoft, die Python unterstützt:  
+>      https://code.visualstudio.com  
+>    - **PyCharm**: Eine kostenpflichtige IDE (250€) von JetBrains, die erweiterte Funktionen für die Python-Entwicklung bietet. Persönlich empfehle ich PyCharm aufgrund seiner leistungsstarken Funktionen:  
+>      https://www.jetbrains.com/de-de/pycharm/
+> Nachdem Sie eine virtuelle Python-Umgebung eingerichtet haben, benötigen Sie für Woyzy noch zwei Bibliotheken: **Flask** und **Ollama**.  
+> Diese können Sie mit den folgenden Befehlen in Ihrem Terminal installieren:
+> ```bash
+> pip install flask
+> pip install ollama
+> ```
+
+### Instalation:
+
+### 1. Klone das Repository:
     ```bash
     git https://github.com/Peharge/Woyzy
     ```
-2. Navigiere in das Projektverzeichnis:
+### 2. Navigiere in das Projektverzeichnis:
     ```bash
     cd Woyzy
     ```
-3. Installiere die notwendigen Abhängigkeiten (falls erforderlich):
+
+### 3. Starte das Projekt:
     ```bash
-    npm install
-    ```
-4. Starte das Projekt:
-    ```bash
-    npm start
+    python main.py
     ```
 
 ## Benutzung
 
-- Stelle sicher, dass alle Abhängigkeiten installiert sind.
-- Verwende den folgenden Befehl, um Tests auszuführen:
+- Stelle sicher, dass alle Abhängigkeiten installiert sind. 
+- Öffne die URL, die Flask im Terminal nach der Ausführung von    
     ```bash
-    npm test
+    python main.py
     ```
-  
+  bereitstellt.
+- Wenn du auf die URL im Terminal klickst, sollte sich dein Browser öffnen und die Woyzy-Umgebung anzeigen.
+- Viel Spaß!
+
 ## Demo
 
 <p align="center">
     <img src="./img-readme/Screenshot 2024-10-25 161951.png" width="1400"/>
+</p>
+<p align="center">
+    <img src="./img-readme/Screenshot 2024-10-26 144030.png" width="1400"/>
+</p>
+<p align="center">
+    <img src="./img-readme/Screenshot 2024-10-26 150253.png" width="1400"/>
+</p>
+<p align="center">
+    <img src="./img-readme/Screenshot 2024-10-26 161146.png" width="1400"/>
 </p>
 
 <video controls width="600">
   <source src="woyzy-video0001-0300.mkv" type="video/mkv">
   Ihr Browser unterstützt das Video-Element nicht.
 </video>
-
-## Geschichte
-
-<p align="center">
-    <img src="./static/images/peharge-image-semi.png" width="1400"/>
-</p>
 
 ## Checkliste
 
