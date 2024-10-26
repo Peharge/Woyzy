@@ -108,6 +108,7 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 >      https://code.visualstudio.com  
 >    - **PyCharm**: Eine kostenpflichtige IDE (250€) von JetBrains, die erweiterte Funktionen für die Python-Entwicklung bietet. Persönlich empfehle ich PyCharm aufgrund seiner leistungsstarken Funktionen:  
 >      https://www.jetbrains.com/de-de/pycharm/
+> 
 > Nachdem Sie eine virtuelle Python-Umgebung eingerichtet haben, benötigen Sie für Woyzy noch zwei Bibliotheken: **Flask** und **Ollama**.  
 > Diese können Sie mit den folgenden Befehlen in Ihrem Terminal installieren:
 > ```bash
