@@ -148,16 +148,10 @@ python main.py
 ## Demo
 
 <p align="center">
-    <img src="./img-readme/Screenshot 2024-10-25 161951.png" width="1400"/>
-</p>
-<p align="center">
-    <img src="./img-readme/Screenshot 2024-10-26 144030.png" width="1400"/>
-</p>
-<p align="center">
-    <img src="./img-readme/Screenshot 2024-10-26 150253.png" width="1400"/>
-</p>
-<p align="center">
-    <img src="./img-readme/Screenshot 2024-10-26 161146.png" width="1400"/>
+    <img src="./img-readme/Screenshot 2024-10-25 161951.png" width="650"/>
+    <img src="./img-readme/Screenshot 2024-10-26 144030.png" width="650"/>
+    <img src="./img-readme/Screenshot 2024-10-26 150253.png" width="650"/>
+    <img src="./img-readme/Screenshot 2024-10-26 161146.png" width="650"/>
 </p>
 
 <video controls width="600">
