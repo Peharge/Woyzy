@@ -167,6 +167,8 @@ python main.py
 </div>
 <br>
 
+...
+
 ## Checkliste
 
 Hier ist die To-Do-Liste für die wichtigsten Tools und Aufgaben im Projekt:
@@ -181,6 +183,8 @@ Hier ist die To-Do-Liste für die wichtigsten Tools und Aufgaben im Projekt:
 Nicht erledigt ❌ | Erledigt (min. 1 Monat) ✔️ | Verbesserungen nötig 🔧 | In Bearbeitung 🔄 | Verbesserungen erforderlich ⚠️
 
 ## Design
+
+...
 
 ## Transformer
 
