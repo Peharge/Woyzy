@@ -163,7 +163,7 @@ python main.py
 ## Geschichte
 
 <div align="center">
-  <img src="./static/images/woyzy-banner21.jpg" alt="woyzy" width="600" style="margin: 10px;">
+  <img src="./static/images/woyzy-banner21.jpg" alt="woyzy" width="400" style="margin: 10px;">
 </div>
 <br>
 
