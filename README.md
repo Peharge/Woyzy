@@ -78,10 +78,11 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 </div>
 <br>
 
-| **Model**   | **Beschreibung**                                    | **Parameter** |
-|-------------|-----------------------------------------------------|--------------|
-| Woyzy 1 3B  | +8GB RAM +2GB storage (Funktioniert mit einer CPU)  | 3B           |
-| Woyzy 1 11B | +16GB RAM +6GB storage (Funktioniert mit einer CPU) | 11B          |
+| **Model**    | **Beschreibung**                                       | **Parameter** |
+|--------------|--------------------------------------------------------|---------------|
+| Woyzy 1 3B   | +8GB RAM +2GB storage (Funktioniert mit einer CPU)     | 3B            |
+| Woyzy 1 11B  | +16GB RAM +6GB storage (Funktioniert mit einer CPU)    | 11B           |
+| Woyzy 1 405B | +256GB RAM +229GB storage (Funktioniert mit einer CPU) | 405B          |
 
 ## Installation
 
