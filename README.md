@@ -63,6 +63,7 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 - [Installation](#installation)
 - [Benutzung](#benutzung)
 - [Demo](#demo)
+- [Geschichte](#geschichte)
 - [Checkliste](#checkliste)
 - [Design](#design)
 - [Transformer](#transformer)
@@ -158,6 +159,13 @@ python main.py
   <source src="woyzy-video0001-0300.mkv" type="video/mkv">
   Ihr Browser unterstützt das Video-Element nicht.
 </video>
+
+## Geschichte
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./static/images/woyzy-banner21.jpg" alt="woyzy" width="600" style="margin: 10px;">
+</div>
+<br>
 
 ## Checkliste
 
