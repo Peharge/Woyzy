@@ -162,7 +162,7 @@ python main.py
 
 ## Geschichte
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div align="center">
   <img src="./static/images/woyzy-banner21.jpg" alt="woyzy" width="600" style="margin: 10px;">
 </div>
 <br>
