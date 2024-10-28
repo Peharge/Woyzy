@@ -101,5 +101,5 @@ def chat():
 
 # Initialisierung der Datenbank
 if __name__ == "__main__":
-    init_db_from_jsonfile("woyzeck.json")
+    init_db_from_jsonfile("C:/Users/julia/PycharmProjects/Woyzy/woyzeck.json") #Muss angepasst werden
     app.run(debug=True)
