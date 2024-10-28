@@ -162,7 +162,23 @@ python main3.py
   Ihr Browser unterstützt das Video-Element nicht.
 </video>
 
-### Text 1 (28.10.2024)
+### Text 1(28.10.2024)
+
+User: Fasse die Szene 5 zusamen!
+
+Der Text ist ein Monolog des Hauptmanns in Büchners Drama "Woyzeck". Im Text wird der Hauptmann, während Woyzeck ihn rasiert, über seine eigenen Ängste und Besorgnisse aus. Er spricht von der Ewigkeit, der Zeitverschwendung, der Welt um sich herum, die sich in einem Tag dreht, und dass er das nicht aushält.
+
+Er macht sich Sorgen, dass Woyzeck, der seinen Kindern unehelich ist, keine Moral hat. Der Hauptmann spricht mit Würde über Moral, aber es zeigt sich schnell, dass dies eine Selbsttäuschung ist. Er fragt sich, was Woyzeck mit dem Zeitvertreib anfangen soll und wie er selbst damit umgehen soll.
+
+Der Hauptmann fühlt sich von Woyzecks Antworten verunsichert und sagt: "Woyzeck er hat keine Tugend, er ist kein tugendhafter Mensch." Er meint aber eigentlich sich selbst. Der Hauptmann spricht dann über die Liebe, Fleisch und Blut, und fragt sich, ob auch er tugendhaft sei.
+
+In der Konversation wird Woyzecks Standpunkt gezeigt: als "armer Kerl" schätze er es, dass Gott ihn dennoch akzeptiert, unabhängig von seinen Taten. Er spricht über die Notwendigkeit einer guten Ausstattung (Hut, Uhr, Anzug) um tugendhaft zu sein und die Frage an Woyzeck, ob er als armer Kerl tugendlich ist.
+
+Bemerkenswert ist die Art und Weise, wie der Hauptmann versucht, seine eigene Unmoral auf den Armeleute abzuwälzen. Er spricht sich selbst ein, dass Woyzeck kein tugendhafter Mensch sei, aber in Gedanken überträgt er diese Eigenschaft auch auf sich selbst.
+
+Der Text zeigt die Komplexität und das Verschwimmeln der Grenzen zwischen gutem und Bösem, moralischem und unmoralischem Verhalten.
+
+### Text 2 (28.10.2024)
 
 User: Fasse die Szene 5 zusamen!
 
@@ -182,7 +198,7 @@ Die Sprache des Textes ist auch interessant. Der Hauptmann spricht in einer höf
 
 Insgesamt handelt es sich um einen interessanten Text, der auf verschiedene Weise interpretiert werden kann.
 
-### Text 2 (28.10.2024)
+### Text 3 (28.10.2024)
 
 User: Fasse Szene 5 zusamen!
 
@@ -196,7 +212,7 @@ Der Hauptmann wirft Woyzeck vor, zu viel zu denken und immer verhetzt auszusehen
 
 Insgesamt geht es in diesem Dialog um das Thema der Existenzangst, Unsicherheit und die Suche nach Sinn. Der Hauptmann ist ein Beispiel für einen Menschen, der sich von seinem eigenen Ich eingenommen hat und versucht, die Welt mit seinen eigenen Maßstäben zu beurteilen.
 
-### Text 3 (28.10.2024)
+### Text 4 (28.10.2024)
 
 User: Fasse scene Szene 19 zusammen
 
@@ -225,7 +241,7 @@ Stil und Sprache:
 
 Es ist wichtig zu beachten, dass "Woyzeck" ein Theaterstück ist und daher nicht als realistische Darstellung von Ereignissen angesehen werden sollte. Die Szene ist eher eine Interpretation der Situationen und Emotionen der Charaktere.
 
-### Text 4 (28.10.2024)
+### Text 5 (28.10.2024)
 
 User: Fasse Szene 3 zusamen!
 
