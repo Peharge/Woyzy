@@ -205,6 +205,35 @@ Stil und Sprache:
 
 Es ist wichtig zu beachten, dass "Woyzeck" ein Theaterstück ist und daher nicht als realistische Darstellung von Ereignissen angesehen werden sollte. Die Szene ist eher eine Interpretation der Situationen und Emotionen der Charaktere.
 
+### Text 3:
+
+User: Fasse Szene 3 zusamen!
+
+Woyzy: Der Text ist ein Exzerpt aus dem Theaterstück "Woyzeck" von Georg Büchner und zeigt eine Szene, in der Woyzeck und seine Frau Marie in einer Budenszene anwesend sind. Die Szene wird von einem Marktbeschreier moderiert, der Woyzecks Frau als einen Tier mit schwarzen Haaren und Augen beschreibt.
+
+Der Marktbeschreier beginnt, die Teilnehmer des Publikums zu verspotten und ihnen vorzuführen, wie "sich die Kreatur" sieht, wie Gott sie gemacht hat. Er unterstreicht, dass es sich dabei um ein Tier handelt, das Mitglied von allen gelehrten Gesellschaften ist und sogar als Professor an mehreren Universitäten tätig ist.
+
+Der Marktbeschreier beschimpft auch die Zuschauer, indem er sagt, dass sie nicht verstehen können, was Vernunft ist. Er behauptet, dass Woyzecks Frau eine Person ist, aber gleichzeitig ein Tier, und stellt fest, dass niemand es versteht, warum.
+
+In der Szene ist auch ein Unteroffizier vorhanden, der während der Diskussion seine Uhr herausnimmt und die Zeit ansagt. Marie klettert auf einen Platz und will sich die Uhr ansehen, wobei der Unteroffizier ihr hilft.
+
+Der Text spiegelt eine Kritik an der Gesellschaft wider, indem er die Ungerechtigkeiten und das Despotismus in der Gesellschaft anprangert. Die Szene zeigt auch Woyzecks Stimmung und seine Frustration, als er sich gegen die Machthaber auflehnt.
+
+Analytische Aspekte:
+
+* Die Szene zeigt eine Kritik an der Gesellschaft, indem sie die Ungerechtigkeiten und das Despotismus in der Gesellschaft anprangert.
+* Der Marktbeschreier wird als eine Art von Prophet oder einer Stimme der Wahrheit dargestellt, der die Wahrheit über die Gesellschaft preisgibt.
+* Die Szene zeigt auch Woyzecks Stimmung und seine Frustration, als er sich gegen die Machthaber auflehnt.
+* Der Text verwendet eine Vielzahl von Metaphern und Vergleichen, um die menschliche Natur und die Gesellschaft zu beschreiben.
+
+Literarische Aspekte:
+
+* Der Text ist ein Beispiel für den expressionistischen Stil, der in der Literatur des 20. Jahrhunderts verwendet wurde.
+* Die Szene zeigt eine starke Kritik an der Gesellschaft und ist daher als eine Art von sozialer Satire zu sehen.
+* Der Marktbeschreier wird als eine Art von Autorität dargestellt, die die Zuschauer auf ihre Ungerechtigkeiten hinweist.
+
+Hinweis: Das Theaterstück "Woyzeck" wurde von Georg Büchner 1827/28 geschrieben, aber es blieb bis zum Jahr 1912 unveröffentlicht. Es ist daher ein wichtiger Teil der deutschen Literatur des 19. und 20. Jahrhunderts.
+
 ## Geschichte
 
 <div align="center">
