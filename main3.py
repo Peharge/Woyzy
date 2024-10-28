@@ -7,7 +7,7 @@ import json
 app = Flask(__name__)
 
 models = {
-    "llama3": "llama3.1",  # Chat++ Model wird hier hinterlegt
+    "llama3": "llama3.1",  # Chat++ Model wird hier hinterlegt (nach Installation)
 }
 
 conversation = []
