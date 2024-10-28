@@ -164,6 +164,20 @@ python main3.py
 
 ### Text 1 (28.10.2024)
 
+User: Fasse Szene 5 zusamen!
+
+Woyzy: Der Text ist ein Dialog zwischen dem Hauptmann und Woyzeck, einem einfachen Mann, der ihn rasiert. Der Hauptmann wird von seiner eigenen Existenzangst eingenommen und spricht über die Ewigkeit, die Beschäftigung und die Zeitverschwendung. Er meint dabei, dass das Leben wie ein Mühlrad ist, und fragt sich, was man mit dem Zeitpunkt anfangen soll, der einem entgeht.
+
+Der Hauptmann gibt sich als fromm und moralisch aus, aber in Wirklichkeit scheint er unsicher zu sein. Er fragt Woyzeck über die Moral, obwohl er selbst nicht genau weiß, was sie bedeuten soll. Als Woyzeck antwortet, dass Gott das Kind ohne den Segen der Kirche nicht drum schlägt, macht dies den Hauptmann verwirrt.
+
+Der Hauptmann spricht auch über seine eigene Liebe und meint, dass er Fleisch und Blut hat wie jeder andere Mensch. Er fragt sich jedoch, ob Woyzeck tugendhaft ist oder nicht. Woyzeck antwortet, dass man nicht tugendhaft sein muss, wenn man ein armer Kerl ist.
+
+Der Hauptmann wirft Woyzeck vor, zu viel zu denken und immer verhetzt auszusehen. Er ermutigt ihn, langsam die Straße hinunterzuwalken, aber im Gegensatz dazu drängt er sich selbst zum Handeln.
+
+Insgesamt geht es in diesem Dialog um das Thema der Existenzangst, Unsicherheit und die Suche nach Sinn. Der Hauptmann ist ein Beispiel für einen Menschen, der sich von seinem eigenen Ich eingenommen hat und versucht, die Welt mit seinen eigenen Maßstäben zu beurteilen.
+
+### Text 2 (28.10.2024)
+
 User: Fasse scene Szene 19 zusammen
 
 Woyzy: Der Text ist eine Szene aus dem Theaterstück "Woyzeck" von Georg Büchner. Hier ist meine Interpretation:
