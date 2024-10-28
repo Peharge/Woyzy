@@ -57,6 +57,7 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 ## News
 
 - **[2024.10.24]** Start ;-)
+- **[2024.10.28]** Erhältlich mit Llama3 + 1.Demo 
 
 ## Inhaltsverzeichnis
 - [Versionen](#versionen)
@@ -133,7 +134,7 @@ cd Woyzy
 
 ### 3. Starte das Projekt:
 ```bash
-python main.py
+python main3.py
 ```
 
 ## Benutzung
@@ -141,7 +142,7 @@ python main.py
 - Stelle sicher, dass alle Abhängigkeiten installiert sind. 
 - Öffne die URL, die Flask im Terminal nach der Ausführung von    
 ```bash
-python main.py
+python main3.py
 ```
   bereitstellt.
 - Wenn du auf die URL im Terminal klickst, sollte sich dein Browser öffnen und die Woyzy-Umgebung anzeigen.
@@ -160,6 +161,35 @@ python main.py
   <source src="woyzy-video0001-0300.mkv" type="video/mkv">
   Ihr Browser unterstützt das Video-Element nicht.
 </video>
+
+### Text 1 (28.10.2024)
+
+User: Fasse scene Szene 19 zusammen
+
+Woyzy: Der Text ist eine Szene aus dem Theaterstück "Woyzeck" von Georg Büchner. Hier ist meine Interpretation:
+
+Die Szene spielt im Wohnzimmer einer Frau namens Marie, die mit ihrem Kind am Fenster sitzt. Sie beobachtet den Zapfenstreich, einem militärischen Ritual, das vorbei geht. Marie und ihre Nachbarin Margreth unterhalten sich über die Soldaten, von denen sie sagt, dass sie "schöne Burschen" sind. Marie singt ein Lied über Soldaten und gibt Auskunft darüber, wie es in ihrem Leben aussieht.
+
+Dann kommt Woyzeck, Maries Geliebter, herein und spricht geheimnisvoll mit ihr. Er erzählt von einem Rauch, der aus dem Land kommt, was Marie besorgt macht. Woyzeck muss fort und Marie bleibt allein zurück.
+
+Die Szene springt dann zu zwei Personen, die draußen sind und über den Ton des Wassers sprechen, das sie hören können. Sie unterhalten sich über den Tod und den Klang der Glocken, die wie gesprungne Glocken klingen.
+
+Schließlich ist Woyzeck wieder am Teich und wirft sein Messer hinein. Er geht in den Teich und wirft weit hinein. Die Szene endet mit einer Selbstreflexion von Woyzeck über seinen Zustand und seine Bedürfnisse.
+
+Themen und Motive:
+
+* Die Beobachtung des Alltäglichen: Marie beobachtet den Zapfenstreich, während Woyzeck sich auf die Ereignisse im Land konzentriert.
+* Die Unbeständigkeit des Lebens: Woyzeck wird von seinen Gedanken übermannt und Marie ist besorgt um ihren Zustand.
+* Die Beziehung zwischen Woyzeck und Marie: Sie sind eng miteinander verbunden, aber ihre Beziehung ist auch gefährdet durch die Unsicherheit der Situation.
+* Die Bedeutung des Teichs: Der Teich wird als Ort der Selbstreflexion und der Beruhigung gesehen. Es ist ein Ort, an dem Woyzeck seine Gedanken und Probleme beiseitelegen kann.
+
+Stil und Sprache:
+
+* Die Sprache ist einfach und direkten Charakters.
+* Der Text ist stark von der Dichtung beeinflusst.
+* Die Szene springt zwischen verschiedenen Ebenen und Perspektiven, was die Illusion eines Kontinuierlichen Geschehens schafft.
+
+Es ist wichtig zu beachten, dass "Woyzeck" ein Theaterstück ist und daher nicht als realistische Darstellung von Ereignissen angesehen werden sollte. Die Szene ist eher eine Interpretation der Situationen und Emotionen der Charaktere.
 
 ## Geschichte
 
