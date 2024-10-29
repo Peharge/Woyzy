@@ -7,11 +7,11 @@ import json
 app = Flask(__name__)
 
 models = {
-    "llama3.1": "llama3.1",
+    "llama3": "llama3.1",
     "Chat++3": "chat++3",
     "Chat++4": "chat++4",
     "Chat++5": "chat++5",
-    "Woyzy": "woyzy"
+    "Woyzy": "woyzy",
 }
 
 conversation = []
@@ -72,7 +72,7 @@ def extract_scene_number(user_message):
 # Funktion zur Interpretation der Szene mithilfe des Modells
 def ask_model_for_interpretation(passage):
     try:
-        response_stream = ollama.chat(model=models['llama3'], messages=[{'role': 'user', 'content': passage}], stream=False)
+        response_stream = ollama.chat(model=models['llama3'], messages=[{'role': 'user', 'content': passage}], stream=False) # Hier muss das Modell 'Woyzy' eingetragen werden. Dadurch entfällt die Auswahl zwischen verschiedenen Modellen.
         return response_stream.get('message', {}).get('content', 'Keine Antwort erhalten.')
     except Exception as e:
         return f"Fehler beim Abrufen der Interpretation: {str(e)}"

@@ -82,7 +82,7 @@ def summarize_passage(passage):
 def ask_model_for_interpretation(passage):
     prompt = f"Bitte interpretiere den folgenden Text:\n\n{passage}"
     try:
-        response_stream = ollama.chat(model=models['llama3'], messages=[{'role': 'user', 'content': prompt}], stream=False)
+        response_stream = ollama.chat(model=models['llama3'], messages=[{'role': 'user', 'content': prompt}], stream=False) # Hier muss das Modell 'Woyzy' eingetragen werden. Dadurch entfällt die Auswahl zwischen verschiedenen Modellen.
         return response_stream.get('message', {}).get('content', 'Keine Antwort erhalten.')
     except Exception as e:
         return f"Fehler beim Abrufen der Interpretation: {str(e)}"
