@@ -142,7 +142,7 @@ python main4.py
 ## Benutzung
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="./static/images/woyzy-banner29.png" alt="woyzy" width="1400" style="margin: 10px;">
+  <img src="./static/images/woyzy-banner30.png" alt="woyzy" width="1400" style="margin: 10px;">
 </div>
 
 - Stelle sicher, dass alle Abhängigkeiten installiert sind. 
