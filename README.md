@@ -158,7 +158,7 @@ https://github.com/meta-llama/llama3/tree/main/llama
 Web:
 https://www.llama.com/
 
-Download Lama 3,2 1B 3b (Bald 11B und 90B): 
+Download Lama 3,2 1B 3b (bald 11B und 90B): 
 https://ollama.com/library/llama3.2
 
 Download Llama 3.1 8b 70b 405b:
