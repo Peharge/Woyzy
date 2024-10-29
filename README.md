@@ -134,15 +134,15 @@ cd Woyzy
 
 ### 3. Starte das Projekt:
 ```bash
-python main3.py
-```
+python main4.py
+``` 
 
 ## Benutzung
 
 - Stelle sicher, dass alle Abhängigkeiten installiert sind. 
 - Öffne die URL, die Flask im Terminal nach der Ausführung von    
 ```bash
-python main3.py
+python main4.py
 ```
   bereitstellt.
 - Wenn du auf die URL im Terminal klickst, sollte sich dein Browser öffnen und die Woyzy-Umgebung anzeigen.
