@@ -63,6 +63,8 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 - [Versionen](#versionen)
 - [Installation](#installation)
 - [Benutzung](#benutzung)
+- [Llama](#llama)
+- [Chat++](#chatpp)
 - [Demo](#demo)
 - [Geschichte](#geschichte)
 - [Checkliste](#checkliste)
@@ -148,7 +150,7 @@ python main4.py
 - Wenn du auf die URL im Terminal klickst, sollte sich dein Browser öffnen und die Woyzy-Umgebung anzeigen.
 - Viel Spaß!
 
-### Llama 3
+## Llama
 
 Code:
 https://github.com/meta-llama/llama3/tree/main/llama
@@ -161,6 +163,12 @@ https://ollama.com/library/llama3.2
 
 Download Llama 3.1 8b 70b 405b:
 https://ollama.com/library/llama3.1
+
+## Chatpp
+
+Dieses Projekt wurde von Peharge in Zusammenarbeit mit der Schule TG Lörrach entwickelt und ist nicht öffentlich erhältlich. Ein Erwerb ist nur möglich, wenn Sie Schüler
+oder Lehrer
+an der Schule TG Lörrach sind oder zur Peharge-Community gehören. Wenn das der Fall ist, können Sie gerne direkt auf mich zukommen (ich möchte meinen Namen hier nicht öffentlich angeben). 
 
 ## Demo
 
