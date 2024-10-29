@@ -64,8 +64,8 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 - [Installation](#installation)
 - [Benutzung](#benutzung)
 - [Chat++](#chatpp)
-- [Llama](#llama)
 - [Demo](#demo)
+- [Demo Text](#demo-text)
 - [Geschichte](#geschichte)
 - [Checkliste](#checkliste)
 - [Design](#design)
@@ -90,7 +90,7 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 ## Installation
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="./static/images/woyzy-banner20.png" alt="woyzy" width="1400" style="margin: 10px;">
+  <img src="./static/images/woyzy-banner23.png" alt="woyzy" width="1400" style="margin: 10px;">
 </div>
 <br>
 
@@ -141,6 +141,10 @@ python main4.py
 
 ## Benutzung
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./static/images/woyzy-banner29.png" alt="woyzy" width="1400" style="margin: 10px;">
+</div>
+
 - Stelle sicher, dass alle Abhängigkeiten installiert sind. 
 - Öffne die URL, die Flask im Terminal nach der Ausführung von    
 ```bash
@@ -150,15 +154,15 @@ python main4.py
 - Wenn du auf die URL im Terminal klickst, sollte sich dein Browser öffnen und die Woyzy-Umgebung anzeigen.
 - Viel Spaß!
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="./static/images/woyzy-banner23.png" alt="woyzy" width="1400" style="margin: 10px;">
-</div>
-
 ## Chatpp
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./static/images/woyzy-banner20.png" alt="woyzy" width="1400" style="margin: 10px;">
+</div>
 
 Dieses Projekt wurde von Peharge in Zusammenarbeit mit der Schule TG Lörrach entwickelt und ist nicht öffentlich zugänglich. Der Erwerb ist nur möglich, wenn Sie Schüler oder Lehrer an der Schule TG Lörrach sind oder Mitglied der Peharge-Community sind. Falls dies zutrifft, können Sie gerne direkt mit mir Kontakt aufnehmen (ich möchte meinen Namen hier nicht öffentlich angeben). Alternativ können Sie auch ein Open-Source-Modell von Ollama, wie Llama, verwenden.
 
-## Llama
+### Llama
 
 > **Code:**  
 > [GitHub - Llama](https://github.com/meta-llama/llama3/tree/main/llama)
@@ -214,10 +218,6 @@ ollama run mistral-nemo
 
 ## Demo
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="./static/images/woyzy-banner25.png" alt="woyzy" width="1400" style="margin: 10px;">
-</div>
-
 <p align="center">
     <img src="./img-readme/Screenshot 2024-10-25 161951.png" width="400"/>
     <img src="./img-readme/Screenshot 2024-10-26 144030.png" width="400"/>
@@ -229,6 +229,12 @@ ollama run mistral-nemo
   <source src="woyzy-video0001-0300.mkv" type="video/mkv">
   Ihr Browser unterstützt das Video-Element nicht.
 </video>
+
+## Demo-text
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./static/images/woyzy-banner25.png" alt="woyzy" width="1400" style="margin: 10px;">
+</div>
 
 ### Text 1 (28.10.2024)
 
