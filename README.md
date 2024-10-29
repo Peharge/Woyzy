@@ -150,6 +150,9 @@ python main4.py
 - Wenn du auf die URL im Terminal klickst, sollte sich dein Browser öffnen und die Woyzy-Umgebung anzeigen.
 - Viel Spaß!
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./static/images/woyzy-banner23.png" alt="woyzy" width="1400" style="margin: 10px;">
+</div>
 
 ## Chatpp
 
@@ -210,6 +213,10 @@ ollama run mistral-nemo
 ```
 
 ## Demo
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./static/images/woyzy-banner25.png" alt="woyzy" width="1400" style="margin: 10px;">
+</div>
 
 <p align="center">
     <img src="./img-readme/Screenshot 2024-10-25 161951.png" width="400"/>
