@@ -213,6 +213,20 @@ Es wäre eine Herausforderung, diese Rolle zu spielen, da ich als Hauptmann sowo
 
 ### Text 3 (28.10.2024)
 
+User: Hi wie geht es dir heute aus Sicht von Woyzeck aus der Szene 5 ?
+
+Woyzy: Ich entschuldige mich, aber ich bin hier nur als KI-Modell vorgesehen, um Fragen zu beantworten und keine Meinung zu haben. Aus Sicht von Woyzeck aus der Szene 5:
+
+Es ist ein harter Tag. Ich bin gerade dabei, Hauptmann Franz Woyzeck (nachdem ich ihn rasiere) zu reden. Der Hauptmann macht mir Witze und fragt mich nach der Moral, aber man kann sehen, dass er sich unwohl fühlt. Er spricht über die Zeit, wie sie vergeht, und wie wir es schaffen müssen, sie zu nutzen.
+
+Als Arbeiter bin ich nicht reich. Ich habe mein eigenes Fleisch und Blut, und das ist etwas, worüber Hauptmann sprechen tut, als er von Liebe redet. Aber was er meint, ist, dass wir alle ein Gefühl für Moral haben sollten, ob wir arm oder reich sind.
+
+Der Hauptmann sagt, ich sei ein guter Mensch, aber ich bin nicht sicher, ob das stimmt. Manchmal denke ich, ich bin zu sehr mit der Zeit beschäftigt, um mich auf die Dinge, die wirklich zählen, zu konzentrieren. Aber ich möchte es versuchen.
+
+Als Hauptmann Franz Woyzeck schlafe ich jetzt langsam die Straße hinunter, nachdem er mir gesagt hat, dass ich es ruhig angehen lassen soll. Ich bin müde und will mich auf meine Arbeit vorbereiten.
+
+### Text 4 (28.10.2024)
+
 User: Fasse die Szene 5 zusamen!
 
 Woyzy: Der Text ist ein Dialog zwischen dem Hauptmann und Woyzeck, einem armen Kerl, der ihm das Haar rasieren soll. Der Hauptmann spricht über die Ewigkeit, Beschäftigung und Moral, während Woyzeck sich still und verhalten gibt.
@@ -231,7 +245,7 @@ Die Sprache des Textes ist auch interessant. Der Hauptmann spricht in einer höf
 
 Insgesamt handelt es sich um einen interessanten Text, der auf verschiedene Weise interpretiert werden kann.
 
-### Text 4 (28.10.2024)
+### Text 5 (28.10.2024)
 
 User: Fasse Szene 5 zusamen!
 
@@ -245,7 +259,7 @@ Der Hauptmann wirft Woyzeck vor, zu viel zu denken und immer verhetzt auszusehen
 
 Insgesamt geht es in diesem Dialog um das Thema der Existenzangst, Unsicherheit und die Suche nach Sinn. Der Hauptmann ist ein Beispiel für einen Menschen, der sich von seinem eigenen Ich eingenommen hat und versucht, die Welt mit seinen eigenen Maßstäben zu beurteilen.
 
-### Text 5 (28.10.2024)
+### Text 6 (28.10.2024)
 
 User: Wer kommt in Szene 5 alles vor, also welche Personen?
 
@@ -278,7 +292,7 @@ Als Hauptmann würde ich mich bemühen, Woyzeck zu verstecken, indem ich ihn mit
 
 Es wäre eine Herausforderung, diese Rolle zu spielen, da ich als Hauptmann sowohl autoritativ als auch menschlich auftreten müsste. Aber es wäre auch sehr spannend, die verschiedenen Facetten des Charakters zu erkunden und zu sehen, wie er sich in verschiedenen Situationen verhält!
 
-### Text 6 (28.10.2024)
+### Text 7 (28.10.2024)
 
 User: Fasse scene Szene 19 zusammen
 
@@ -307,7 +321,7 @@ Stil und Sprache:
 
 Es ist wichtig zu beachten, dass "Woyzeck" ein Theaterstück ist und daher nicht als realistische Darstellung von Ereignissen angesehen werden sollte. Die Szene ist eher eine Interpretation der Situationen und Emotionen der Charaktere.
 
-### Text 7 (28.10.2024)
+### Text 8 (28.10.2024)
 
 User: Fasse Szene 3 zusamen!
 
