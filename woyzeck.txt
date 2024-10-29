@@ -1,0 +1,786 @@
+Georg Büchner Woyzeck
+
+Herausgegeben von Heike WirthweinReclam
+
+Der Text dieser Ausgabe ist seiten- und zeilengleich mitder Ausgabe der Universal-Bibliothek Nr. 18420.
+
+Zu Büchners Woyzeck gibt es bei Reclam
+– einen Lektüreschlüssel XL für Schülerinnen und Schüler
+ (Nr. 15458)
+– Erläuterungen und Dokumente (Nr. 16013)
+– eine Interpretation in: Georg Büchner in der Reihe
+ »Interpretationen« (Nr. 8415)
+
+ E-Book-Ausgaben finden Sie auf unserer Website
+ unter www.reclam.de/e-book
+
+ Reclam XLText und Kontext Nr. 19018
+ 2013 Philipp Reclam jun. GmbH & Co. KG,
+ Siemensstraße 32, 71254 Ditzingen
+
+ Textausgaben mit Genehmigung der Akademie der Wissenschaften
+ und Literatur, Mainz
+
+ Gestaltung: Cornelia Feyll, Friedrich Forssman
+ DruckundBindung:CanonDeutschlandBusinessServicesGmbH,
+ Siemensstraße 32, 71254 Ditzingen
+ Printed in Germany 2018
+ RECLAMist eine eingetragene Marke
+ der Philipp Reclam jun. GmbH & Co. KG, Stuttgart
+ ISBN 978-3-15-019018-0
+
+ Auch als E-Book erhältlich
+
+ www.reclam.de
+
+ Die Texte von Reclam XL sind seiten- und zeilengleich
+ mit den Texten der Universal-Bibliothek.
+ Die Reihe bietet neben dem Text Worterläuterungen
+ in Form von Fußnoten und Sacherläuterungen in Form
+ von Anmerkungen im Anhang, auf die am Rand
+ mit Pfeilen ( ) verwiesen wird.
+ Die Texte von Reclam XL sind seiten- und zeilengleich
+ mit den Texten der Universal-Bibliothek.
+ Die Reihe bietet neben dem Text Worterläuterungen
+ in Form von Fußnoten und Sacherläuterungen in Form
+ von Anmerkungen im Anhang, auf die am Rand
+ mit Pfeilen ( ) verwiesen wird.
+
+
+Personen:
+ Franz Woyzeck
+ Marie Zickwolf
+ Christian, ihr Kind,
+ etwa einjährig
+ Hauptmann
+ Doctor
+ Tambourmajor
+ Unterofficier
+ Andres
+ Margreth
+ Marktschreier, Ausrufer
+ einer Bude
+ Alter Mann
+ Tanzendes Kind
+ Erster Handwerksbursch
+ Zweiter Handwerksbursch
+ Narr Karl
+ Der Jude
+ Großmutter
+ Erstes Kind
+ Zweites Kind
+ Erste Person
+ Zweite Person
+ Wirt
+ Käthe
+ Gerichtsdiener
+ Barbier
+ Arzt
+ Richter
+ Polizeidiener
+ Soldaten, Handwerksburschen, Leute, Mädchen
+ und Kinder
+
+9
+ 1. Szene
+ 〈= H 4,1〉
+
+ Freies Feld. Die Stadt in der Ferne.
+ Woyzeck und Andres schneiden Stöcke im Gebüsch.
+
+ woyzeck.
+ Ja Andres; den Streif da über das Gras hin, da
+ rollt abends der Kopf, es hob ihn einmal einer auf, er
+ meint es wär’ ein Igel. Drei Tag und drei Nächt und er
+ lag auf den Hobelspänen (leise) Andres, das waren die
+ Freimaurer, ich hab’s, die Freimaurer, still!
+
+ andres (singt).
+ Saßen dort zwei Hasen
+ Fraßen ab das grüne, grüne Gras
+
+ woyzeck. Still! Es geht was!
+
+ andres.
+ Fraßen ab das grüne, grüne Gras
+ Bis auf den Rasen.
+
+ woyzeck.
+ Esgehthinter mir, unter mir (stampft auf den
+ Boden) hohl, hörst du? Alles hohl da unten. Die Frei maurer!
+
+ andres.
+ Ich fürcht mich.
+
+ woyzeck. ’s ist so kurios still. Man möcht’ den Atem
+ halten. Andres!
+
+ andres.
+ Was?
+
+ woyzeck.
+ Redwas!(Starrt in die Gegend.) Andres! Wie
+ hell! Ein Feuer fährt um den Himmel und ein Getös herunter wie Posaunen. Wie’s heraufzieht! Fort. Sieh
+ nicht hinter dich (reißt ihn ins Gebüsch).
+
+ andres.
+ (nach einer Pause) Woyzeck! hörst du’s noch?
+
+ woyzeck.
+ Still, alles still, als wär die Welt tot.
+
+ andres.
+ Hörstdu? Sie trommeln drin. Wir müssen fort.
+
+10
+ 2. Szene
+ 2./3. Szene
+ 〈= H 4,2〉
+
+ Marie (mit ihrem Kind am Fenster). Margreth.
+ DerZapfenstreichgehtvorbei,derTambourmajorvoran.
+
+ marie (das Kind wippend auf dem Arm).
+ He Bub! Sa ra ra ra! Hörst? Da kommen sie
+
+ margreth.
+ Was ein Mann, wie ein Baum.
+
+ marie.
+ Er steht auf seinen Füßen wie ein Löw.
+
+ (Tambourmajor grüßt.)
+
+ margreth.
+ Ei, was freundliche Auge, Frau Nachbarin,
+ so was is man an ihr nit gewöhnt.
+
+ marie (singt).
+
+ Soldaten, das sind schöne Bursch
+
+ 〈Arbeitslücke von ein bis zwei Leerzeilen〉
+
+ margreth.
+ Ihre Auge glänze ja noch.
+
+ marie.
+ Und wenn! Trag sie ihr Auge zum Jud und lass sie sie putze, vielleicht glänze sie noch, dass man sie für
+ zwei Knöpf verkaufe könnt.
+
+ margreth.
+ Was Sie? Sie? Frau Jungfer, ich bin eine ho nette Person, aber sie, sie guckt sieben Paar lederne
+ Hose durch.
+
+ marie.
+ Luder! (Schlägt das Fenster 〈zu〉.) Komm mein
+ Bub. Was die Leut wollen. Bist doch nur en arm Hu
+ renkind und machst deiner Mutter Freud mit deim un
+ ehrliche Gesicht. Sa! Sa! (Singt.)
+ Mädel, was fangst du jetzt an
+ Hast ein klein Kind und kein Mann
+ Ei was frag ich danach
+ Sing ich die ganze Nacht
+ Heio popeio mein Bu. Juchhe!
+ Gibt mir kein Mensch nix dazu.
+
+11
+ Hansel spann deine sechs Schimmel an
+ Gib ihn zu fresse aufs neu
+ Kein Haber fresse sie
+ Kein Wasser saufe sie
+ Lauter kühle Wein muss es sein Juchhe
+ Lauter kühle Wein muss es sein.
+
+ (Es klopft am Fenster.)
+
+ marie.
+ Wer da? Bist du’s Franz? Komm herein!
+
+ woyzeck.
+ Kann nit. Muss zum Verles.
+
+ marie.
+ Was hast du Franz?
+
+ woyzeck. (geheimnisvoll) Marie, es war wieder was,
+ viel, steht nicht geschrieben, und sieh da ging ein Rauch vom Land, wie der Rauch vom Ofen?
+ marie. Mann!
+
+ woyzeck.
+ Es ist hinter mir gegangen bis vor die Stadt.
+ Was soll das werden?
+
+ marie.
+ Franz!
+
+ woyzeck.
+ Ich muss fort (er geht.)
+
+ marie.
+ Der Mann! So vergeistert. Er hat sein Kind nicht
+ angesehn. Er schnappt noch über mit den Gedanken.
+ Was bist so still, Bub? Furchst’ Dich? Es wird so dun
+kel, man meint, man wär blind. Sonst scheint doch als
+ die Latern herein. Ich halt’s nicht aus. Es schauert mich
+ (geht ab.)
+
+ 3. Szene
+ 〈= H 1,1 und H 1,2 sowie H 2,3 und H 2,5〉
+ Buden. Lichter. Volk.
+ ALTER MANN. KIND DAS TANZT:
+ Auf der Welt ist kein Bestand
+ Wir müssen alle sterben, das ist uns wohlbekannt!
+ 〈woyzeck〉. He! Hopsa! Armer Mann, alter Mann! Ar
+mes Kind! Junges Kind! ++++ und ++st! Hei Marie,
+ 3 Haber: Hafer 9 Verles: abendlicher Zählappell beim Militär
+ (Verlesen der Namen) 19 vergeistert: südhessisch für: verängstigt,
+ außer sich vor Schreck
+
+12
+ 3. Szene
+ soll ich dich tragen? Ein Mensch muss noch d. +++
+ vo+ ++d+, damit er essen kann. ++++ Welt! Schöne
+ Welt!
+ AUSRUFER, an einer Bude: Meine Herren, meine Damen,
+ ist zu sehn das astronomische Pferd und die feinen Ka
+naillevögele, sind Liebling von allen Potentaten Europas
+ und Mitglied von allen gelehrten Societäten; weissagen
+ den Leuten alles, wie alt, wie viel Kinder, was für Krank
+heit, schießt Pistol los, stellt sich auf ein Bein. Alles Er
+ziehung, haben eine viehische Vernunft, oder vielmehr
+ eine ganze vernünftige Viehigkeit, ist kein viehdummes
+ Individuum wie viele Personen, das verehrliche Publikum
+ abgerechnet. Es wird sein, die Rapresentation, das com
+mencement vom commencement wird sogleich nehm
+ sein Anfang.
+ Meine Herren! Meine Herren! Sehn sie die Kreatur, wie
+ sie Gott gemacht, nix, gar nix. Sehen Sie jetzt die Kunst,
+ geht aufrecht hat Rock und Hosen, hat ein Säbel! Ho!
+ Mach Kompliment! So bist baron. Gib Kuss! (Er trompe
+tet.) Michel ist musikalisch.
+ Sehn Sie die Fortschritte der Civilisation. Alles schreitet
+ fort, ein Pferd, ein Aff, ein Canaillevogel. Der Aff’ ist
+ schon ein Soldat, ’s ist noch nit viel, unterst Stuf von
+ menschliche Geschlecht!
+ Die Rapräsentation anfangen! Man mackt Anfang von
+ Anfang. Es wird sogleich sein das Commencement von
+ Commencement.
+ woyzeck. Willst du?
+ marie. Meinetwegen. Das muss schön Dings sein. Was
+ der Mensch Quasten hat und die Frau hat Hosen.
+ Unterofficier. Tambourmajor.
+ 〈UNTEROFFICIER〉. Halt, jetzt. Siehst du sie! Was ein Weibs
+bild.
+ TAMBOURMAJOR. Teufel zum Fortpflanzen von Kürassier
+regimentern und zur Zucht von Tambourmajors.
+ 5f.Kanaillevögele: scherzhaft für: Kanarienvögel; canaille (frz.) /
+ »Kanalje« (südhessisch) für: Schurke 6 Potentaten: Fürsten, Herr
+scher 7 Societäten: Gesellschaften 13 Rapresentation: Repräsen
+tation, hier: Vorführung 13f. commencement: (frz.) Anfang
+ 34f. Kürassierregimentern: Reiterregimentern
+
+13
+ UNTEROFFICIER. Wie sie den Kopf trägt, man meint das
+ schwarze Haar müsse ihn abwärts ziehn, wie ein Ge
+wicht, und Augen, schwarz
+
+ TAMBOURMAJOR. Als ob man in einen Ziehbrunnen oder zu
+ einem Schornstein hinunterguckt. Fort hinterdrein.
+ marie. Was Lichter,
+ woyzeck. Ja d++ Bou+, eine große schwarze Katze mit
+ feurigen Augen. Hei, was ein Abend.
+ Das Innere der Bude.
+ MARKTSCHREIER. Zeig’ dein Talent! zeig deine viehische
+ Vernünftigkeit! Beschäme die menschliche Societät! Mei
+ne Herren dies Tier, wie sie da sehn, Schwanz am Leib,
+ auf seinen vier Hufen ist Mitglied von allen gelehrten So
+cietäten, ist Professor an mehren Universitäten wo die
+ Studenten bei ihm reiten und schlagen lernen. Das war
+ einfacher Verstand! Denk jetzt mit der doppelten Raison.
+ Was machst du wann du mit der doppelten Räson
+ denkst? Ist unter der gelehrten Socie´te´ da ein Esel? (Der
+ Gaul schüttelt den Kopf.) Sehn sie jetzt die doppelte Rä
+son! Das ist Viehsionomik. Ja das ist kein viehdummes
+ Individuum, das ist eine Person! Ein Mensch, ein tieri
+scher Mensch und doch ein Vieh, eine Beˆte (das Pferd
+ führt sich ungebührlich auf.) So beschäme die Socie´te´!
+ Sehn sie das Vieh ist noch Natur unverdorbne Natur! Ler
+nen Sie bei ihm. Fragen sie den Arzt es ist höchst schäd
+lich! Das hat geheißen Mensch sei natürlich, du bist ge
+schaffen Staub, Sand, Dreck. Willst du mehr sein, als
+ Staub, Sand, Dreck? Sehn sie was Vernunft, es kann
+ rechnen und kann doch nit an den Fingern herzählen,
+ warum? Kann sich nur nit ausdrücken, nur nit explicie
+ren, ist ein verwandter Mensch! Sag den Herren, wie viel
+ Uhr es ist. Wer von den Herren und Damen hat eine Uhr,
+ eine Uhr.
+ unterofficier. EineUhr!(Ziehtgroßartigundgemessen
+ eine Uhr aus der Tasche.) Da mein Herr.
+ 16 Raison: (frz.) Vernunft 20 Viehsionomik: Verballhornung des
+ Wortes »Physiognomik«; Lehre, die von der äußeren Erscheinung
+ des Menschen auf das innere Wesen schließt 22 Be ˆte: (frz.) Tier
+ 30f. explicieren: (frz.) erklären 34 gemessen: langsam, würdevoll
+
+14
+ 3.–5. Szene
+ marie. Das muss ich sehn. (Sie klettert auf den ersten
+ Platz. Unterofficier hilft ihr.)
+ 4. Szene
+ 〈= H 4,4〉
+ Mariesitzt,ihrKindaufdemSchoß,einStückchenSpiegel
+ in der Hand.
+ 〈marie〉 (bespiegelt sich). Was die Steine glänze! Was
+ sind’s für? Was hat er gesagt?– Schlaf Bub! Drück die
+ Auge zu, fest (das Kind versteckt die Augen hinter den
+ Händen), noch fester, bleib so, still oder er holt dich.
+ (Singt.)
+ Mädel mach’s Ladel zu
+ ’s kommt e Zigeunerbu
+ Führt dich an deiner Hand
+ Fort ins Zigeunerland.
+ (Spiegelt sich wieder.) ’s ist gewiss Gold! Unsereins hat
+ nur ein Eckchen in der Welt und ein Stückchen Spiegel
+ und doch hab’ ich einen so roten Mund als die großen
+ Madamen mit ihren Spiegeln von oben bis unten und
+ ihren schönen Herrn, die ihnen die Händ’ küssen; ich
+ bin nur ein arm Weibsbild.– (Das Kind richtet sich
+ auf.) Still Bub, die Auge zu, das Schlafengelchen! wie’s
+ an der Wand läuft (sie blinkt mit dem Glas) die Auge
+ zu, oder es sieht dir hinein, dass du blind wirst.
+ (Woyzeck tritt herein, hinter sie. Sie fährt auf mit den
+ Händen nach den Ohren.)
+ woyzeck. Was hast du?
+ marie. Nix.
+ woyzeck. Unter deinen Fingern glänzt’s ja.
+ marie. Ein Ohrringlein; hab’s gefunden.
+ woyzeck. Ich hab’ so noch nix gefunden, zwei auf ein
+mal.
+
+15
+
+ marie. Bin ich ein Mensch?
+ woyzeck. ’s ist gut, Marie.– Was der Bub schläft. Greif’
+ ihm unters Ärmchen der Stuhl drückt ihn. Die hellen
+ Tropfen steh’n ihm auf der Stirn; alles Arbeit unter der
+ Sonn, sogar Schweiß im Schlaf. Wir arme Leut! Das is
+ wieder Geld Marie, die Löhnung und was von mein’m
+ Hauptmann.
+ marie. Gott vergelt’s Franz.
+ woyzeck. Ich muss fort. Heut Abend, Marie. Adies.
+ marie. (allein nacheiner Pause) Ich bin doch ein schlecht
+ Mensch. Ich könnt’ mich erstechen.– Ach! Was Welt?
+ Geht doch alles zum Teufel, Mann und Weib.
+ 5. Szene
+ 〈= H 4,5〉
+ Der Hauptmann. Woyzeck.
+ Hauptmann auf einem Stuhl, Woyzeck rasiert ihn.
+ hauptmann. Langsam, Woyzeck, langsam; ein’s nach
+ dem andern; Er macht mir ganz schwindlich. Was soll
+ ich dann mit den zehn Minuten anfangen, die er heut zu
+ früh fertig wird? Woyzeck, bedenk’ er, er hat noch seine
+ schöne dreißig Jahr zu leben, dreißig Jahr! macht 360
+ Monate, und Tage, Stunden, Minuten! Was will er denn
+ mit der ungeheuren Zeit all anfangen? Teil er sich ein,
+ Woyzeck.
+ woyzeck. Ja wohl, Herr Hauptmann.
+ hauptmann. Eswirdmirganzangst umdie Welt, wenn
+ ich an die Ewigkeit denke. Beschäftigung, Woyzeck,
+ Beschäftigung! ewig das ist ewig, das ist ewig, das siehst
+ du ein; nun ist es aber wieder nicht ewig und das ist ein
+ Augenblick, ja, ein Augenblick– Woyzeck, es schaudert
+ mich, wenn ich denk, dass sich die Welt in einem Tag
+ herumdreht, was eine Zeitverschwendung, wo soll das
+ 1 Mensch: hier abwertend als Schimpfwort: Hure, Dirne
+16
+ 5./6. Szene
+ hinaus? Woyzeck, ich kann kein Mühlrad mehr sehn,
+ oder ich werd’ melancholisch.
+ woyzeck. Ja wohl, Herr Hauptmann.
+ hauptmann. Woyzeck er sieht immer so verhetzt aus,
+ ein guter Mensch tut das nicht, ein guter Mensch, der
+ sein gutes Gewissen hat.– Red’ er doch was Woyzeck.
+ Was ist heut für Wetter?
+ woyzeck. Schlimm, Herr Hauptmann, schlimm; Wind.
+ hauptmann. Ichspür’sschon,’sistsowasGeschwindes
+ draußen; so ein Wind macht mir den Effekt wie eine
+ Maus. (Pfiffig.) Ich glaub’ wir haben so was aus Süd
+Nord.
+ woyzeck. Ja wohl, Herr Hauptmann.
+ hauptmann. Ha! ha! ha! Süd-Nord! Ha! Ha! Ha! O er
+ ist dumm, ganz abscheulich dumm. (Gerührt.) Woy
+zeck, er ist ein guter Mensch, ein guter Mensch– aber
+ (mit Würde) Woyzeck, er hat keine Moral! Moral das
+ ist wenn man moralisch ist, versteht er. Es ist ein gutes
+ Wort. Er hat ein Kind, ohne den Segen der Kirche, wie
+ unser hochehrwürdiger Herr Garnisonsprediger sagt,
+ ohne den Segen der Kirche, es ist nicht von mir.
+ woyzeck. HerrHauptmann,derliebe Gott wird den ar
+men Wurm nicht drum ansehn, ob das Amen drüber ge
+sagt ist, eh’ er gemacht wurde. Der Herr sprach: lasset
+ die Kindlein zu mir kommen.
+ hauptmann. Wassagt er da? Was ist das für ’ne kuriose
+ Antwort? Er macht mich ganz confus mit seiner Ant
+wort. Wenn ich sag: er, so mein ich ihn, ihn.
+ woyzeck. Wir arme Leut. Sehn sie, Herr Hauptmann,
+ Geld, Geld. Wer kein Geld hat. Da setz einmal einer
+ sein’sgleichen auf die Moral in die Welt. Man hat auch
+ sein Fleisch und Blut. Unsereins ist doch einmal unselig
+ in der und der andern Welt, ich glaub’ wenn wir in
+ Himmel kämen, so müssten wir donnern helfen.
+ hauptmann. Woyzeck er hat keine Tugend, er ist kein
+ tugendhafter Mensch. Fleisch und Blut? Wenn ich am
+ 2 melancholisch: schwermütig 10 Effekt: Wirkung 19 ohne den
+ Segen der Kirche: unehelich. Vgl. Anm. zu 16,19.
+
+17
+
+ Fenster lieg, wenn es geregnet hat und den weißen
+ Strümpfen so nachsehe, wie sie über die Gassen sprin
+gen,– verdammt Woyzeck,– da kommt mir die Liebe.
+ Ich hab auch Fleisch und Blut. Aber Woyzeck, die Tu
+gend, die Tugend! Wie sollte ich dann die Zeit herum
+bringen? ich sag’ mir immer du bist ein tugendhafter
+ Mensch, (gerührt) ein guter Mensch, ein guter Mensch.
+ woyzeck. Ja Herr Hauptmann, die Tugend! ich hab’s
+ noch nicht so aus. Sehn Sie wir gemeinen Leut, das hat
+ keine Tugend, es kommt einem nur so die Natur, aber
+ wenn ich ein Herr wär und hätt ein Hut und eine Uhr
+ und en Anglaise und könnt vornehm reden, ich wollt
+ schon tugendhaft sein. Es muss was Schöns sein um die
+ Tugend, Herr Hauptmann. Aber ich bin ein armer
+ Kerl.
+ hauptmann. Gut Woyzeck. Du bist ein guter Mensch,
+ ein guter Mensch. Aber du denkst zu viel, das zehrt, du
+ siehst immer so verhetzt aus. Der Diskurs hat mich
+ ganz angegriffen. Geh’ jetzt und renn nicht so; langsam
+ hübsch langsam die Straße hinunter.
+ 6. Szene
+ 〈= H 4,6〉
+ Marie. Tambourmajor.
+ tambourmajor. Marie!
+ marie (ihn ansehend, mit Ausdruck). Geh’ einmal vor
+ dich hin.– Über die Brust wie ein Stier und ein Bart wie
+ ein Löw .. So ist keiner .. Ich bin stolz vor allen Wei
+bern.
+ tambourmajor. Wenn ich am Sonntag erst den großen 
+Federbusch hab’ und die weißen Handschuh, Donner
+wetter, Marie, der Prinz sagt immer: Mensch, er ist ein
+ Kerl.
+ marie. (spöttisch) Ach was! (Tritt vor ihn hin.) Mann!
+ 1f.den weißen Strümpfen so nachsehe: Frauen hinterhersehe
+ 12 Anglaise: (frz.) festlicher Anzug 18 Diskurs: (frz.: discours)
+ Gespräch, Unterhaltung
+18
+ 6.–8. Szene
+ tambourmajor. Und du bist auch ein Weibsbild, Sap
+perment, wir wollen eine Zucht von Tambourmajors
+ anlegen. He? (Er umfasst sie.)
+ marie. (verstimmt) Lass mich!
+ tambourmajor. Wild Tier.
+ marie. (heftig) Rühr mich an!
+ tambourmajor. Sieht dir der Teufel aus den Augen?
+ marie. Meinetwegen. Es ist alles eins.
+ 7. Szene
+ 〈= H 4,7〉
+ Marie. Woyzeck.
+ franz (sieht sie starr an, schüttelt den Kopf). Hm! Ich
+ seh nichts, ich seh nichts. O, man müsst’s sehen, man
+ müsst’s greifen können mit Fäusten.
+ marie (verschüchtert). Was hast du Franz? Du bist hirn
+wütig Franz.
+ franz. Eine Sünde so dick und so breit. (Es stinkt dass
+ man die Engelchen zum Himmel hinausräuchern
+ könnt.) Du hast ein roten Mund, Marie. Keine Blase
+ drauf? Adieu, Marie, du bist schön wie die Sünde
+Kann die Todsünde so schön sein?
+ marie. Franz, du red’st im Fieber.
+ franz. Teufel!– Hat er da gestanden, so, so?
+ marie. Dieweil der Tag lang und die Welt alt ist, können
+ viel Menschen an einem Platz stehn, einer nach dem an
+dern.
+ woyzeck. Ich hab ihn gesehn.
+ marie. Man kann viel sehn, wenn man zwei Augen hat
+ und man nicht blind ist und die Sonn scheint.
+ woyzeck. Mi+t s++ A++
+ marie. (keck) Und wenn auch.
+ 15f. hirnwütig: rasend, wahnsinnig 24 Dieweil: solange
+
+8. Szene
+ 19
+ 〈= H 4,8〉
+ Woyzeck. Der Doctor.
+ doctor. Waserleb’ ich Woyzeck? Ein Mann von Wort.
+ woyzeck. Was denn Herr Doctor?
+ doctor. Ichhab’s gesehn Woyzeck; er hat auf Straß ge
+pisst, an die Wand gepisst wie ein Hund. Und doch
+ zwei Groschen täglich. Woyzeck das ist schlecht, die
+ Welt wird schlecht, sehr schlecht.
+ woyzeck. Aber Herr Doctor, wenn einem die Natur 
+kommt.
+ doctor. DieNaturkommt,die Natur kommt! Die Na
+tur! Hab’ ich nicht nachgewiesen, dass der Musculus
+ constrictor vesicae dem Willen unterworfen ist? Die Na
+tur! Woyzeck, der Mensch ist frei, in dem Menschen ver
+klärt sich die Individualität zur Freiheit. Den Harn nicht
+ halten können! (Schüttelt den Kopf, legt die Hände auf
+ den Rücken und geht auf und ab.) Hat er schon seine
+ Erbsen gegessen, Woyzeck?– Es gibt eine Revolution in
+ der Wissenschaft, ich sprenge sie in die Luft. Harnstoff,
+ 0,10, salzsaures Ammonium, Hyperoxydul.
+ Woyzeck muss er nicht wieder pissen? geh’ er einmal
+ hinein und probier er’s.
+ woyzeck. Ich kann nit Herr Doctor.
+ doctor. (mit Affekt) Aber auf die Wand pissen! Ich
+ hab’s schriftlich, den Akkord in der Hand. Ich hab’s
+ gesehn, mit diesen Augen gesehn, ich streckte grade die
+ Nase zum Fenster hinaus und ließ die Sonnenstrahlen
+ hineinfallen, um das Niesen zu beobachten, (tritt auf
+ ihn los) nein Woyzeck, ich ärger mich nicht, Ärger ist
+ ungesund, ist unwissenschaftlich. Ich bin ruhig ganz
+ ruhig, mein Puls hat seine gewöhnlichen 60 und ich
+ sag’s ihm mit der größten Kaltblütigkeit! Behüte wer
+ wird sich über einen Menschen ärgern, einen Men
+schen! Wenn es noch ein Proteus wäre, der einem kre
+13f. Musculus constrictor vesicae: (lat.) Blasenschließmuskel
+ 21 salzsaures Ammonium: Salz des Harns 21 Hyperoxydul:
+ Metallverbindung 26 Akkord: (frz.) Vertrag 35 Proteus: frosch
+artige Eidechse
+20
+ 8./9. Szene
+ piert! Aber er hätte doch nicht an die Wand pissen sol
+len
+woyzeck. Sehn sie Herr Doctor, manchmal hat man so
+ ’nen Charakter, so ’ne Struktur.– Aber mit der Natur
+ ist’s was anders, sehn sie mit der Natur (er kracht mit
+ den Fingern) das ist so was, wie soll ich doch sagen,
+ zum Beispiel
+ doctor. Woyzeck, er philosophiert wieder.
+ woyzeck. (vertraulich) Herr Doctor haben sie schon
+ was von der doppelten Natur gesehn? Wenn die Sonn in
+ Mittag steht und es ist als ging die Welt im Feuer auf hat
+ schon eine fürchterliche Stimme zu mir geredt!
+ doctor. Woyzeck, er hat eine Aberratio
+ woyzeck. (legt den Finger an die Nase) Die Schwämme
+ Herr Doctor. Da, da steckts. Haben sie schon gesehn in
+ was für Figuren die Schwämme auf dem Boden wach
+sen. Wer das lesen könnt.
+ doctor. Woyzeck er hat die schönste Aberratio menta
+lis partialis, der zweiten Species, sehr schön ausgeprägt,
+ Woyzeck er kriegt Zulage. Zweiter Species, fixe Idee,
+ mit allgemein vernünftigem Zustand, er tut noch alles
+ wie sonst, rasiert seinen Hauptmann!
+ woyzeck. Ja, wohl.
+ doctor. Isst seine Erbsen?
+ woyzeck. Immerordentlich Herr Doctor. Das Geld für
+ die Menage kriegt meine Frau.
+ doctor. Tut seinen Dienst.
+ woyzeck. Ja wohl.
+ doctor. Er ist ein interessanter Casus, Subjekt Woy
+zeck er kriegt Zulage. Halt er sich brav. Zeig er seinen
+ Puls! Ja.
+ 14 Schwämme: Pilze 18f. Aberratio mentalis partialis: teilweise
+ geistige Verwirrung. Vgl. Anm. zu 20,18. 26 Menage: hier:
+ Verpflegung 29 Casus: (lat.) Fall 29 Subjekt: hier abwertend für:
+ Person
+
+9. Szene
+ 21
+ 〈= H 4,9 und H 2,7〉
+ 〈Straße.〉
+
+ Hauptmann. Doctor.
+ hauptmann. Herr Doctor, die Pferde machen mir ganz
+ Angst; wenn ich denke, dass die armen Bestien zu Fuß
+ gehn müssen. Rennen Sie nicht so. Rudern Sie mit ih
+rem Stock nicht so in der Luft. Sie hetzen sich ja hinter
+ dem Tod drein. Ein guter Mensch, der sein gutes Ge
+wissen hat, geht nicht so schnell. Ein guter Mensch. (Er
+ erwischt den Doctor am Rock.) Herr Doctor erlauben
+ sie, dass ich ein Menschenleben rette, sie schießen
+ Herr Doctor, ich bin so schwermütig, ich habe so was
+ Schwärmerisches, ich muss immer weinen, wenn ich
+ meinen Rock an der Wand hängen sehe, da hängt er.
+ doctor. Hm,aufgedunsen, fett, dicker Hals, apoplekti
+sche Konstitution. Ja Herr Hauptmann sie können eine
+ Apoplexia cerebralis kriechen, sie können sie aber viel
+leicht auch nur auf der einen Seite bekommen, und
+ dann auf der einen gelähmt sein, oder aber sie können
+ im besten Fall geistig gelähmt werden und nur fortvege
+tieren, das sind so ohngefähr ihre Aussichten auf die
+ nächsten vier Wochen. Übrigens kann ich sie versi
+chern, dass sie einen von den interessanten Fällen abge
+ben und wenn Gott will, dass ihre Zunge zum Teil ge
+lähmt wird, so machen wir die unsterblichsten Experi
+mente.
+ hauptmann. HerrDoctorerschreckenSiemichnicht,es
+ sind schon Leute am Schreck gestorben, am bloßen hel
+len Schreck.– Ich sehe schon die Leute mit den Zitro 
+nen in den Händen, aber sie werden sagen, er war ein
+ guter Mensch, ein guter Mensch– Teufel Sargnagel.
+ doctor. 〈(hält ihm den Hut hin)〉 Was ist das Herr
+ Hauptmann? das ist Hohlkopf
+ 16f. apoplektische Konstitution: schlaganfallgefährdet
+ 18 Apoplexia cerebralis: Gehirnschlag 18 kriechen: südhessisch
+ für: kriegen, bekommen
+22
+ 9. Szene
+ hauptmann. (macht eine Falte) Was ist das Herr
+ Doctor, das ist Einfalt.
+ doctor. Ich empfehle mich, geehrtester Herr Exerzier
+zagel
+ hauptmann. Gleichfalls, bester Herr Sargnagel.
+(〈Woyzeck kommt gelaufen〉)
+ Ha Woyzeck, was hetzt er sich so an mir vorbei. Bleib er
+ doch Woyzeck, er läuft ja wie ein offnes Rasiermesser
+ durch die Welt, man schneidt sich an ihm, er läuft als
+ hätt er ein Regiment Kosaken zu rasieren und würde ge
+henkt über dem letzten Haar nach einer Viertelstunde
+aber, über die langen Bärte, was wollt ich doch sagen?
+ Woyzeck– die langen Bärte
+ DOCTOR. Ein langer Bart unter dem Kinn, schon Plinius
+ spricht davon, man muss es den Soldaten abgewöhnen,
+ die, die,
+ HAUPTMANN. (
+ fährt fort) Hä? über die langen Bärte? Wie
+ is Woyzeck hat er noch nicht ein Haar aus einem Bart in
+ seiner Schüssel gefunden? He er versteht mich doch,
+ ein Haar von einem Menschen, vom Bart eines Sapeur,
+ eines Unterofficier, eines– eines Tambourmajor? He
+ Woyzeck? Aber Er hat eine brave Frau. Geht ihm nicht
+ wie andern.
+ WOYZECK. Ja wohl! Was wollen Sie sagen Herr Haupt
+mann?
+ HAUPTMANN. Was der Kerl ein Gesicht macht! er steckt
+ ++++++st++ct, in den Himmel nein, muss nun auch nicht
+ in der Suppe, aber wenn er sich eilt und um die Eck
+ geht, so kann er vielleicht noch auf Paar Lippen eins fin
+den, ein Paar Lippen, Woyzeck, ich habe wieder die Lie
+be gefühlt, Woyzeck.
+ Kerl er ist ja kreideweiß.
+ WOYZECK. Herr Hauptmann, ich bin ein armer Teufel,
+und hab sonst nichts– auf der Welt Herr Hauptmann,
+ wenn Sie Spaß machen
+3f.Exerzierzagel: Zagel: Schwanz, Nachtrab eines Heeres
+ 20 Sapeur: Regimentszimmermann
+
+23
+ HAUPTMANN. Spaß ich, dass dich Spaß, Kerl!
+ DOCTOR. Den Puls Woyzeck, den Puls, klein, hart hüp
+fend, ungleich.
+
+ WOYZECK. Herr Hauptmann, die Erd ist höllenheiß, mir
+ eiskalt, eiskalt, die Hölle ist kalt, wollen wir wetten.
+ Unmöglich. Mensch! Mensch! unmöglich.
+ HAUPTMANN. Kerl, will er erschossen 〈werden〉, will ein
+ Paar Kugeln vor den Kopf haben? er ersticht mich mit
+ seinen Augen, und ich mein es gut 〈mit〉 ihm, weil er ein
+ guter Mensch ist Woyzeck, ein guter Mensch.
+ DOCTOR. Gesichtsmuskeln starr, gespannt, zuweilen hüp
+fend, Haltung aufgerichtet gespannt.
+ WOYZECK. Ich geh! Es ist viel möglich. Der Mensch! es ist
+ viel möglich.
+ Wir haben schön Wetter Herr Hauptmann. Sehn sie so
+ ein schönen, festen grauen Himmel, man könnte Lust
+ bekommen, einen Kloben hineinzuschlagen und sich dar
+an zu hängen, nur wegen des Gedankenstrichels zwi
+schen Ja, und nein, ja– und nein, Herr Hauptmann ja
+ und nein? Ist das nein am ja oder das ja am nein schuld.
+ Ich will drüber nachdenken.
+ (Geht mit breiten Schritten ab, erst langsam dann immer
+ schneller.)
+ DOCTOR. (
+ schießt ihm nach)Phänomen,Woyzeck,Zulage.
+ HAUPTMANN. Mir wird ganz schwindlich vor den Men
+schen, wie schnell, der lange Schlegel greift aus, es läuft
+ der Schatten von einem Spinnenbein, und der Kurze, das
+ zuckelt. Der lange ist der Blitz und der kleine der Donner.
+ Hähä, hinterdrein. Das hab’ ich nicht gern! ein guter
+ Mensch ist dankbar und hat sein Leben lieb, ein guter
+ Mensch hat keine Courage nicht! ein Hundsfott hat Cou
+rage! Ich bin bloß in Krieg gangen um mich in meiner
+ Liebe zum Leben zu befestigen. Von der Angst zur
+ Angst, von da zum Krieg von da zur Courage, wie man
+ zu so Gedanken kommt, grotesk! grotesk!
+ 17 Kloben: Haken aus Eisen 24 Phänomen: auffallende Erschei
+nung 26Schlegel: südhessisch für: derber Kerl 31 Courage: (frz.)
+ Mut 31Hundsfott: Schimpfwort 35 grotesk: widersinnig
+24
+ 10. Szene
+ 10./11. Szene
+ 〈= H 3,1〉
+ Der Hof des Professors.
+ Studenten unten, der Professor am Dachfenster.
+ 〈PROFESSOR〉. Meine Herrn, ich bin auf dem Dach, wie Da
+vid, als er die Bathseba sah; aber ich sehe nichts als die
+ culs de Paris der Mädchenpension im Garten trocknen.
+ Meine Herrn wir sind an der wichtigen Frage über das
+ Verhältnis des Subjektes zum Objekt, wenn wir nur eins
+ von den Dingen nehmen, worin 〈sich〉 die organische
+ Selbstaffirmation des Göttlichen, auf einem der hohen
+ Standpunkte manifestiert und ihre Verhältnisse zum
+ Raum, zur Erde, zum Planetarischen untersuchen, meine
+ Herrn, wenn ich diese Katze zum Fenster hinauswerfe,
+ wie wird diese Wesenheit sich zum Centrum gravitationis
+ und dem eignen Instinkt verhalten. He Woyzeck, (brüllt)
+ Woyzeck!
+ WOYZECK. Herr Professor sie beißt.
+ PROFESSOR. Kerl, er greift die Bestie so zärtlich an, als
+ wär’s seine Großmutter.
+ WOYZECK. Herr Doctor ich hab’s Zittern.
+ DOCTOR. (
+ ganz erfreut) Ei, ei, schön Woyzeck (reibt sich
+ die Hände). (Er nimmt die Katze.) Was seh’ ich meine
+ Herrn, die neue Species Hühnerlaus, eine schöne Spe
+zies, wesentlich verschieden, enfonce´, der Herr Doctor
+ (er zieht eine Lupe heraus), Ricinus, meine Herrn–(die
+ Katze läuft fort). Meine Herrn, das Tier hat keinen wis
+senschaftlichen Instinkt, Ricinus, herauf, die schönsten
+ Exemplare, bringen sie ihre Pelzkragen. Meine Herrn, sie
+ können dafür was anders sehen, sehen sie der Mensch,
+ seit einem Vierteljahr isst er nichts als Erbsen, bemerkten
+ sie die Wirkung, fühlen sie einmal was ein ungleicher
+ Puls, da und die Augen.
+ WOYZECK. Herr Doctor es wird mir dunkel. (Er setzt sich.)
+ 7 culs de Paris: (frz.) Gesäßpolster 11 Selbstaffirmation: Beja
+hung, Zustimmung 12 manifestiert: zeigt 15 Centrum gravita
+tionis: eigentlich centrum gravitatis: Schwerpunkt 25 enfonce ´:
+ (frz.) eingegraben (im Pelz) 26 Ricinus: lat. Gattungsname
+ der Geflügel- oder Pelzlaus
+
+25
+ DOCTOR. Courage Woyzeck noch ein paar Tage, und dann
+ ist’s fertig, fühlen sie meine Herrn fühlen sie (sie betasten
+ ihm Schläfe, Puls und Busen).
+
+ A propos, Woyzeck, beweg den Herren doch einmal die
+ Ohren, ich hab es Ihnen schon zeigen wollen, Zwei Mus
+keln sind bei ihm tätig. Allons frisch!
+ WOYZECK. Ach Herr Doctor!
+ DOCTOR. Bestie, soll ich dir die Ohren bewegen; willst
+ du’s machen wie die Katze. So meine Herrn, das sind so
+ Übergänge zum Esel, häufig auch in Folge weiblicher Er
+ziehung, und die Muttersprache, wie viel Haare hat dir
+ deine Mutter zum Andenken schon ausgerissen aus
+ Zärtlichkeit. Sie sind dir ja ganz dünn geworden, seit ein
+ paar Tagen, ja die Erbsen, meine Herren.
+ 11. Szene
+ 〈= H 4,10〉
+ Die Wachtstube.
+ Woyzeck. Andres.
+ andres. (singt)
+ Frau Wirtin hat ’ne brave Magd
+ Sie sitzt im Garten Tag und Nacht
+ Sie sitzt in ihrem Garten …
+ woyzeck. Andres!
+ andres. Nu?
+ woyzeck. Schön Wetter.
+ andres. Sonntagsonnwetter und Musik vor der Stadt.
+ Vorhin sind die Weibsbilder hinaus, die Menscher
+ dämpfen, das geht.
+ woyzeck. (unruhig) Tanz, Andres, sie tanzen
+ andres. Im Rössel und im Sternen.
+ woyzeck. Tanz, Tanz.
+ 6 Allons: (frz.) auf geht’s 27 Menscher: weibliche Personen;
+ als Schimpfwort: Huren, Dirnen 28 dämpfen: südhessisch für:
+ dampfen, schwitzen
