@@ -148,6 +148,20 @@ python main4.py
 - Wenn du auf die URL im Terminal klickst, sollte sich dein Browser öffnen und die Woyzy-Umgebung anzeigen.
 - Viel Spaß!
 
+### Llama 3
+
+Code:
+https://github.com/meta-llama/llama3/tree/main/llama
+
+Web:
+https://www.llama.com/
+
+Download Lama 3,2 1B 3b (Bald 11B und 90B): 
+https://ollama.com/library/llama3.2
+
+Download Llama 3.1 8b 70b 405b:
+https://ollama.com/library/llama3.1
+
 ## Demo
 
 <p align="center">
