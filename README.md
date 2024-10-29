@@ -178,14 +178,16 @@ Insgesamt geht es in diesem Dialog um das Thema der Existenzangst, Unsicherheit 
 
 ### Text 2 (28.10.2024)
 
-Wer kommt in Szene 5 alles vor, also welche Personen?
+User: Wer kommt in Szene 5 alles vor, also welche Personen?
 
-In Szene 5 kommen folgende Personen vor:
+Woyzy: In Szene 5 kommen folgende Personen vor:
 
 1. Der Hauptmann
 2. Woyzeck (der ihn rasiert)
-Ok gut gemacht und wie ist deren Beziehung und Szene 5 ?
-Gut gemacht!
+
+User: Ok gut gemacht und wie ist deren Beziehung und Szene 5 ?
+
+Woyzy: Gut gemacht!
 
 Die Szene 5 zeigt eine tiefe Persönlichkeit des Hauptmanns und Woyzecks. Der Hauptmann ist ein aufgeblasener Militärangehöriger, der sich selbst überlegen fühlt und die Welt als eine große Theaterbühne sieht. Er verwendet übertrieben elegante Redewendungen wie "Süd-Nord" und "Moral" und ist besorgt um seine eigene Zeitwahrnehmung.
 
@@ -196,8 +198,10 @@ Die Rede des Hauptmanns über Tugend und Moral ist besonders interessant, da er 
 Die Szene endet mit dem Hauptmanns Befreiungswunsch, Woyzeck zu schicken, um die Straße langsam hinunterzugehen. Dies symbolisiert die Trennung zwischen der Welt des Hauptmanns und der Welt von Woyzeck.
 
 Insgesamt ist diese Szene ein wichtiger Teil des Dramas, da sie die Charaktere tiefer kennzeichnen lässt und den Konflikt zwischen dem Hauptmann und Woyzeck aufzeigt.
-Welche Person wärst du gerne in der Szene 5 ?
-Eine interessante Frage!
+
+User: Welche Person wärst du gerne in der Szene 5 ?
+
+Woyzy: Eine interessante Frage!
 
 Ich würde gerne den Hauptmann in der Szene 5 sein. Er ist ein komplexer Charakter, der auf der einen Seite autoritativ und humorvoll erscheint, aber auf der anderen Seite auch melancholisch und verwundbar. Seine Gedanken und Gefühle sind vielschichtig und bieten viel Raum für Interpretation.
 
