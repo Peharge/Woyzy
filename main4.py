@@ -7,7 +7,6 @@ import json
 app = Flask(__name__)
 
 models = {
-    "llama3": "llama3",
     "llama3.1": "llama3.1",
     "Chat++3": "chat++3",
     "Chat++4": "chat++4",
