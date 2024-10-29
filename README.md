@@ -211,7 +211,7 @@ Als Hauptmann würde ich mich bemühen, Woyzeck zu verstecken, indem ich ihn mit
 
 Es wäre eine Herausforderung, diese Rolle zu spielen, da ich als Hauptmann sowohl autoritativ als auch menschlich auftreten müsste. Aber es wäre auch sehr spannend, die verschiedenen Facetten des Charakters zu erkunden und zu sehen, wie er sich in verschiedenen Situationen verhält!
 
-### Text 3 (28.10.2024)
+### Text 3 (29.10.2024)
 
 User: Hi wie geht es dir heute aus Sicht von Woyzeck aus der Szene 5 ?
 
