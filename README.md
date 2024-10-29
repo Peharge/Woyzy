@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<img alt="" src="https://img.shields.io/badge/Python-3.12 / 3.13-blue?&logo=Python&logoColor=white%5BPython">
+<img alt="" src="https://img.shields.io/badge/Python-3.11 / 3.12 / 3.13-blue?&logo=Python&logoColor=white%5BPython">
 <img alt="" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
 <img alt="" src="https://img.shields.io/badge/-C-blue?logo=c">
 <br>
