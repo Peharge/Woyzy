@@ -225,7 +225,15 @@ Der Hauptmann sagt, ich sei ein guter Mensch, aber ich bin nicht sicher, ob das 
 
 Als Hauptmann Franz Woyzeck schlafe ich jetzt langsam die Straße hinunter, nachdem er mir gesagt hat, dass ich es ruhig angehen lassen soll. Ich bin müde und will mich auf meine Arbeit vorbereiten.
 
-### Text 4 (28.10.2024)
+### Text 4 (29.10.2024)
+
+User: Gibt es ein märchen aus der Szene 19 ? Ist es ungefähr so wie sterntaler?
+
+Woyzy: Ja, in Szene 19 gibt es ein Märchen, das von Marie und ihrer Großmutter erzählt wird. Es handelt sich um die Geschichte eines armen Kindes, das keine Eltern mehr hat und in der Welt allein ist. Das Kind will zum Himmel aufsteigen, aber auf dem Weg dorthin erlebt es verschiedene Schwierigkeiten und Enttäuschungen. Es beginnt mit einem Stück faul Holz, dann wird es eine verwelkte Sonnenblume, danach kleine goldne Mücken, die wie der Neuntödter sind und schließlich ein umgestürzter Hafen, an dem das Kind allein sitzt.
+
+Ja, das Märchen hat ähnliche Züge mit "Sterntaler" (auch bekannt als "Der Stern", aber wahrscheinlich "Sterntaler" ist der Titel von einer Adaption des Stückes durch Georg Kaiser), in dem ein armer Jäger seine einzige Tochter verliert und sie schließlich als Sterne am Himmel wieder sieht.
+
+### Text 5 (28.10.2024)
 
 User: Fasse die Szene 5 zusamen!
 
@@ -245,7 +253,7 @@ Die Sprache des Textes ist auch interessant. Der Hauptmann spricht in einer höf
 
 Insgesamt handelt es sich um einen interessanten Text, der auf verschiedene Weise interpretiert werden kann.
 
-### Text 5 (28.10.2024)
+### Text 6 (28.10.2024)
 
 User: Fasse Szene 5 zusamen!
 
@@ -259,7 +267,7 @@ Der Hauptmann wirft Woyzeck vor, zu viel zu denken und immer verhetzt auszusehen
 
 Insgesamt geht es in diesem Dialog um das Thema der Existenzangst, Unsicherheit und die Suche nach Sinn. Der Hauptmann ist ein Beispiel für einen Menschen, der sich von seinem eigenen Ich eingenommen hat und versucht, die Welt mit seinen eigenen Maßstäben zu beurteilen.
 
-### Text 6 (28.10.2024)
+### Text 7 (28.10.2024)
 
 User: Wer kommt in Szene 5 alles vor, also welche Personen?
 
@@ -292,7 +300,7 @@ Als Hauptmann würde ich mich bemühen, Woyzeck zu verstecken, indem ich ihn mit
 
 Es wäre eine Herausforderung, diese Rolle zu spielen, da ich als Hauptmann sowohl autoritativ als auch menschlich auftreten müsste. Aber es wäre auch sehr spannend, die verschiedenen Facetten des Charakters zu erkunden und zu sehen, wie er sich in verschiedenen Situationen verhält!
 
-### Text 7 (28.10.2024)
+### Text 8 (28.10.2024)
 
 User: Fasse scene Szene 19 zusammen
 
@@ -321,7 +329,7 @@ Stil und Sprache:
 
 Es ist wichtig zu beachten, dass "Woyzeck" ein Theaterstück ist und daher nicht als realistische Darstellung von Ereignissen angesehen werden sollte. Die Szene ist eher eine Interpretation der Situationen und Emotionen der Charaktere.
 
-### Text 8 (28.10.2024)
+### Text 9 (28.10.2024)
 
 User: Fasse Szene 3 zusamen!
 
