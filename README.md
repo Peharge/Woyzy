@@ -63,8 +63,8 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 - [Versionen](#versionen)
 - [Installation](#installation)
 - [Benutzung](#benutzung)
-- [Llama](#llama)
 - [Chat++](#chatpp)
+- [Llama](#llama)
 - [Demo](#demo)
 - [Geschichte](#geschichte)
 - [Checkliste](#checkliste)
@@ -150,25 +150,64 @@ python main4.py
 - Wenn du auf die URL im Terminal klickst, sollte sich dein Browser öffnen und die Woyzy-Umgebung anzeigen.
 - Viel Spaß!
 
-## Llama
-
-Code:
-https://github.com/meta-llama/llama3/tree/main/llama
-
-Web:
-https://www.llama.com/
-
-Download Lama 3,2 1B 3b (bald 11B und 90B): 
-https://ollama.com/library/llama3.2
-
-Download Llama 3.1 8b 70b 405b:
-https://ollama.com/library/llama3.1
 
 ## Chatpp
 
-Dieses Projekt wurde von Peharge in Zusammenarbeit mit der Schule TG Lörrach entwickelt und ist nicht öffentlich erhältlich. Ein Erwerb ist nur möglich, wenn Sie Schüler
-oder Lehrer
-an der Schule TG Lörrach sind oder zur Peharge-Community gehören. Wenn das der Fall ist, können Sie gerne direkt auf mich zukommen (ich möchte meinen Namen hier nicht öffentlich angeben). 
+Dieses Projekt wurde von Peharge in Zusammenarbeit mit der Schule TG Lörrach entwickelt und ist nicht öffentlich zugänglich. Der Erwerb ist nur möglich, wenn Sie Schüler oder Lehrer an der Schule TG Lörrach sind oder Mitglied der Peharge-Community sind. Falls dies zutrifft, können Sie gerne direkt mit mir Kontakt aufnehmen (ich möchte meinen Namen hier nicht öffentlich angeben). Alternativ können Sie auch ein Open-Source-Modell von Ollama, wie Llama, verwenden.
+
+## Llama
+
+> **Code:**  
+> [GitHub - Llama](https://github.com/meta-llama/llama3/tree/main/llama)
+
+> **Webseite:**  
+> [llama.com](https://www.llama.com/)
+
+> **Download Llama 3.2 (1B, 3B; bald auch 11B und 90B):**  
+> [Download Llama 3.2](https://ollama.com/library/llama3.2)
+
+> **Download Llama 3.1 (8B, 70B, 405B):**  
+> [Download Llama 3.1](https://ollama.com/library/llama3.1)
+
+Um die Modelle von Ollama zu installieren, benötigen Sie die Ollama-App: [Ollama Download](https://ollama.com/download).
+
+Anschließend können Sie die Modelle in Shell, CMD, Bash usw. mit den folgenden Befehlen installieren, sodass Sie sie in `main2.py`, `main3.py`, `main4.py` usw. einbinden können:
+
+```bash
+ollama run llama3.1:8b
+```
+
+```bash
+ollama run llama3.1:70b
+```
+
+```bash
+ollama run llama3.1:405b
+```
+
+```bash
+ollama run llama3.2:1b
+```
+
+```bash
+ollama run llama3.2:3b
+```
+
+Alternativ können Sie auch Gemma 2 von Google verwenden:
+
+```bash
+ollama run gemma2:9b
+```
+
+```bash
+ollama run gemma2:27b
+```
+
+Oder eine neue Version von Mistral (12B):
+
+```bash
+ollama run mistral-nemo
+```
 
 ## Demo
 
@@ -186,9 +225,9 @@ an der Schule TG Lörrach sind oder zur Peharge-Community gehören. Wenn das der
 
 ### Text 1 (28.10.2024)
 
-User: Fasse die Szene 5 zusamen!
+> User: Fasse die Szene 5 zusamen!
 
-Der Text ist ein Monolog des Hauptmanns in Büchners Drama "Woyzeck". Im Text wird der Hauptmann, während Woyzeck ihn rasiert, über seine eigenen Ängste und Besorgnisse aus. Er spricht von der Ewigkeit, der Zeitverschwendung, der Welt um sich herum, die sich in einem Tag dreht, und dass er das nicht aushält.
+Woyzy: Der Text ist ein Monolog des Hauptmanns in Büchners Drama "Woyzeck". Im Text wird der Hauptmann, während Woyzeck ihn rasiert, über seine eigenen Ängste und Besorgnisse aus. Er spricht von der Ewigkeit, der Zeitverschwendung, der Welt um sich herum, die sich in einem Tag dreht, und dass er das nicht aushält.
 
 Er macht sich Sorgen, dass Woyzeck, der seinen Kindern unehelich ist, keine Moral hat. Der Hauptmann spricht mit Würde über Moral, aber es zeigt sich schnell, dass dies eine Selbsttäuschung ist. Er fragt sich, was Woyzeck mit dem Zeitvertreib anfangen soll und wie er selbst damit umgehen soll.
 
@@ -202,14 +241,14 @@ Der Text zeigt die Komplexität und das Verschwimmeln der Grenzen zwischen gutem
 
 ### Text 2 (29.10.2024)
 
-User: Wer kommt in Szene 5 alles vor, also welche Personen?
+> User: Wer kommt in Szene 5 alles vor, also welche Personen?
 
 Woyzy: In Szene 5 kommen folgende Personen vor:
 
 1. Der Hauptmann
 2. Woyzeck (der ihn rasiert)
 
-User: Ok gut gemacht und wie ist deren Beziehung und Szene 5 ?
+> User: Ok gut gemacht und wie ist deren Beziehung und Szene 5 ?
 
 Woyzy: Gut gemacht!
 
@@ -223,7 +262,7 @@ Die Szene endet mit dem Hauptmanns Befreiungswunsch, Woyzeck zu schicken, um die
 
 Insgesamt ist diese Szene ein wichtiger Teil des Dramas, da sie die Charaktere tiefer kennzeichnen lässt und den Konflikt zwischen dem Hauptmann und Woyzeck aufzeigt.
 
-User: Welche Person wärst du gerne in der Szene 5 ?
+> User: Welche Person wärst du gerne in der Szene 5 ?
 
 Woyzy: Eine interessante Frage!
 
@@ -235,7 +274,7 @@ Es wäre eine Herausforderung, diese Rolle zu spielen, da ich als Hauptmann sowo
 
 ### Text 3 (29.10.2024)
 
-User: Hi wie geht es dir heute aus Sicht von Woyzeck aus der Szene 5 ?
+> User: Hi wie geht es dir heute aus Sicht von Woyzeck aus der Szene 5 ?
 
 Woyzy: Ich entschuldige mich, aber ich bin hier nur als KI-Modell vorgesehen, um Fragen zu beantworten und keine Meinung zu haben. Aus Sicht von Woyzeck aus der Szene 5:
 
@@ -249,7 +288,7 @@ Als Hauptmann Franz Woyzeck schlafe ich jetzt langsam die Straße hinunter, nach
 
 ### Text 4 (29.10.2024)
 
-User: Gibt es ein märchen aus der Szene 19 ? Ist es ungefähr so wie sterntaler?
+> User: Gibt es ein märchen aus der Szene 19 ? Ist es ungefähr so wie sterntaler?
 
 Woyzy: Ja, in Szene 19 gibt es ein Märchen, das von Marie und ihrer Großmutter erzählt wird. Es handelt sich um die Geschichte eines armen Kindes, das keine Eltern mehr hat und in der Welt allein ist. Das Kind will zum Himmel aufsteigen, aber auf dem Weg dorthin erlebt es verschiedene Schwierigkeiten und Enttäuschungen. Es beginnt mit einem Stück faul Holz, dann wird es eine verwelkte Sonnenblume, danach kleine goldne Mücken, die wie der Neuntödter sind und schließlich ein umgestürzter Hafen, an dem das Kind allein sitzt.
 
@@ -257,7 +296,7 @@ Ja, das Märchen hat ähnliche Züge mit "Sterntaler" (auch bekannt als "Der Ste
 
 ### Text 5 (28.10.2024)
 
-User: Fasse die Szene 5 zusamen!
+> User: Fasse die Szene 5 zusamen!
 
 Woyzy: Der Text ist ein Dialog zwischen dem Hauptmann und Woyzeck, einem armen Kerl, der ihm das Haar rasieren soll. Der Hauptmann spricht über die Ewigkeit, Beschäftigung und Moral, während Woyzeck sich still und verhalten gibt.
 
@@ -277,7 +316,7 @@ Insgesamt handelt es sich um einen interessanten Text, der auf verschiedene Weis
 
 ### Text 6 (28.10.2024)
 
-User: Fasse Szene 5 zusamen!
+> User: Fasse Szene 5 zusamen!
 
 Woyzy: Der Text ist ein Dialog zwischen dem Hauptmann und Woyzeck, einem einfachen Mann, der ihn rasiert. Der Hauptmann wird von seiner eigenen Existenzangst eingenommen und spricht über die Ewigkeit, die Beschäftigung und die Zeitverschwendung. Er meint dabei, dass das Leben wie ein Mühlrad ist, und fragt sich, was man mit dem Zeitpunkt anfangen soll, der einem entgeht.
 
@@ -291,14 +330,14 @@ Insgesamt geht es in diesem Dialog um das Thema der Existenzangst, Unsicherheit 
 
 ### Text 7 (28.10.2024)
 
-User: Wer kommt in Szene 5 alles vor, also welche Personen?
+> User: Wer kommt in Szene 5 alles vor, also welche Personen?
 
 Woyzy: In Szene 5 kommen folgende Personen vor:
 
 1. Der Hauptmann
 2. Woyzeck (der ihn rasiert)
 
-User: Ok gut gemacht und wie ist deren Beziehung und Szene 5 ?
+> User: Ok gut gemacht und wie ist deren Beziehung und Szene 5 ?
 
 Woyzy: Gut gemacht!
 
@@ -312,7 +351,7 @@ Die Szene endet mit dem Hauptmanns Befreiungswunsch, Woyzeck zu schicken, um die
 
 Insgesamt ist diese Szene ein wichtiger Teil des Dramas, da sie die Charaktere tiefer kennzeichnen lässt und den Konflikt zwischen dem Hauptmann und Woyzeck aufzeigt.
 
-User: Welche Person wärst du gerne in der Szene 5 ?
+> User: Welche Person wärst du gerne in der Szene 5 ?
 
 Woyzy: Eine interessante Frage!
 
@@ -324,7 +363,7 @@ Es wäre eine Herausforderung, diese Rolle zu spielen, da ich als Hauptmann sowo
 
 ### Text 8 (28.10.2024)
 
-User: Fasse scene Szene 19 zusammen
+> User: Fasse scene Szene 19 zusammen
 
 Woyzy: Der Text ist eine Szene aus dem Theaterstück "Woyzeck" von Georg Büchner. Hier ist meine Interpretation:
 
@@ -353,7 +392,7 @@ Es ist wichtig zu beachten, dass "Woyzeck" ein Theaterstück ist und daher nicht
 
 ### Text 9 (28.10.2024)
 
-User: Fasse Szene 3 zusamen!
+> User: Fasse Szene 3 zusamen!
 
 Woyzy: Der Text ist ein Exzerpt aus dem Theaterstück "Woyzeck" von Georg Büchner und zeigt eine Szene, in der Woyzeck und seine Frau Marie in einer Budenszene anwesend sind. Die Szene wird von einem Marktbeschreier moderiert, der Woyzecks Frau als einen Tier mit schwarzen Haaren und Augen beschreibt.
 
