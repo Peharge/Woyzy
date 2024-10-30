@@ -1275,6 +1275,10 @@
 
         .cardddd {
             display: none;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
             width: 600px;
             height: 130px;
             padding: 0.5rem;
@@ -1294,7 +1298,7 @@
         }
 
         .cardddd:hover {
-            height: 230px;
+            height: 500px;
             transform: skew(0deg);
         }
 
@@ -1337,6 +1341,109 @@
             text-shadow: 10px 5px 10px rgba(0, 0, 0, 0.573);
         }
 
+        .buttongit {
+            position: relative;
+            border: none;
+            margin: 10px;
+            background-color: transparent;
+        }
+
+        .buttongit a {
+            width: 80px;
+            height: 80px;
+            border-radius: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            border-right: 1px solid rgba(255, 255, 255, 0.2);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 5px 45px rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(2px);
+            transition: 0.5s;
+            overflow: hidden;
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        .buttongit a:hover {
+            transform: translateY(-20px);
+        }
+
+        .buttongit a::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 50px;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.5);
+            transform: skewX(45deg) translateX(150px);
+            transition: 0.5s ease;
+        }
+
+        .buttongit a:hover::before {
+            transform: skewX(45deg) translateX(-150px);
+        }
+
+        .buttongit a svg {
+            width: 3em;
+        }
+
+        .container-ask {
+            display: flex;
+            flex-direction: column;
+            gap: 7px;
+            position: relative;
+            color: white;
+            transform: translateX(200px);
+        }
+
+        .container-ask .label-ask {
+            font-size: 15px;
+            padding-left: 10px;
+            position: absolute;
+            top: 13px;
+            transition: 0.3s;
+            pointer-events: none;
+        }
+
+        .ask-input {
+            width: 200px;
+            height: 45px;
+            border: none;
+            outline: none;
+            padding: 0px 7px;
+            border-radius: 6px;
+            color: #fff;
+            font-size: 15px;
+            background-color: transparent;
+            box-shadow: 3px 3px 10px rgba(0,0,0,1),
+            -1px -1px 6px rgba(255, 255, 255, 0.4);
+        }
+
+        .ask-input:focus {
+            border: 2px solid transparent;
+            color: #fff;
+            box-shadow: 3px 3px 10px rgba(0,0,0,1),
+            -1px -1px 6px rgba(255, 255, 255, 0.4),
+            inset 3px 3px 10px rgba(0,0,0,1),
+            inset -1px -1px 6px rgba(255, 255, 255, 0.4);
+        }
+
+        .container-ask .ask-input:valid ~ .label-ask,
+        .container-ask .ask-input:focus ~ .label-ask {
+            transition: 0.3s;
+            padding-left: 2px;
+            transform: translateY(-35px);
+        }
+
+        .container-ask .ask-input:valid,
+        .container-ask .ask-input:focus {
+            box-shadow: 3px 3px 10px rgba(0,0,0,1),
+            -1px -1px 6px rgba(255, 255, 255, 0.4),
+            inset 3px 3px 10px rgba(0,0,0,1),
+            inset -1px -1px 6px rgba(255, 255, 255, 0.4);
+        }
     </style>
 </head>
 <body>
@@ -1365,9 +1472,29 @@
             </div>
             <h1>Woyzy Infos</h1>
             <p>
-                Mehr Infos unter: <br><a href="https://github.com/Peharge/Woyzy" style="color: rgba(0, 60, 255);">https://github.com/Peharge/Woyzy</a>
-            </p>
+                Mehr Infos unter: <br><br>
 
+                <button class="buttongit">
+                    <a href="https://github.com/Peharge/Woyzy">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="1.8em" height="1.8em" viewBox="0 0 1944 1765" stroke-width="6.875" fill="currentColor" stroke="#042433">
+                          <g transform="translate(-1124 -349)">
+                            <path d="M1127.51 355.509C1124.87 360.15 1561.83 356.941 1561.83 356.369 1561.83 355.796 2081.53 1587.32 2082.5 1587.49 2080.89 1587.66 1858.03 2109.07 1858.37 2110.5 1858.72 2111.93 1130.15 350.869 1127.51 355.509Z" fill="#FFFFFF" fill-rule="evenodd"></path>
+                            <path d="M1768.51 355.509C1765.87 360.15 2202.83 356.941 2202.83 356.369 2202.83 355.796 2722.53 1587.32 2723.5 1587.49 2721.89 1587.66 2499.03 2109.07 2499.37 2110.5 2499.72 2111.93 1771.15 350.869 1768.51 355.509Z" fill="#FFFFFF" fill-rule="evenodd"></path>
+                            <path d="M2409.5 352.745C2408.01 351.9 2842.38 353.541 2843.18 353.178 2843.99 352.815 3038.53 804.228 3039.5 804.315 3037.9 804.401 2819.71 1336.42 2817.76 1334.49 2815.82 1332.57 2410.99 353.59 2409.5 352.745Z" fill="#FFFFFF" fill-rule="evenodd"></path>
+                          </g>
+                        </svg>
+                    </a>
+                </button>
+            </p>
+            <p>
+                Hir kannst du dir die Szenen anzeigen lassen:<br><br>
+
+                <div class="container-ask">
+                  <input required type="text" name="text" class="ask-input" id="askInput">
+                  <label class="label-ask">Szenen...</label>
+                  <div id="sceneOutput"></div>
+                </div>
+            </p>
         </div>
         <div class="cardd">
             <div class="alignd">
@@ -2188,6 +2315,40 @@
             } else {
                 cardddd.style.display = 'none';
             }
+        }
+
+        document.getElementById("askInput").addEventListener("keydown", function(event) {
+          if (event.key === "Enter") {
+            event.preventDefault();
+            loadScene();
+          }
+        });
+
+        function loadScene() {
+          const searchText = document.getElementById("askInput").value.toLowerCase();
+
+          fetch('../woyzeck2.json')
+            .then(response => {
+              if (!response.ok) throw new Error("Datei konnte nicht geladen werden.");
+              return response.json();
+            })
+            .then(data => {
+              let output = `<h2>${data.title}</h2><p><strong>Autor:</strong> ${data.author}</p>`;
+
+              const scene = data.scenes.find(scene => scene.scene.toLowerCase() === searchText);
+
+              if (scene) {
+                output += `<h3>${scene.scene}</h3><p>${scene.content.replace(/\n/g, '<br>')}</p>`;
+              } else {
+                output += `<p>Keine Szene gefunden.</p>`;
+              }
+
+              document.getElementById("sceneOutput").innerHTML = output;
+            })
+            .catch(error => {
+              console.error("Fehler beim Laden der JSON-Datei:", error);
+              document.getElementById("sceneOutput").innerHTML = "<p>Fehler beim Laden der Datei.</p>";
+            });
         }
 
     </script>
