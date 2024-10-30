@@ -90,7 +90,7 @@ def ask_model_for_interpretation(passage):
 # Flask-Routen
 @app.route('/')
 def index():
-    return render_template('index3.html', models=models)
+    return render_template('index5.html', models=models)
 
 @app.route('/chat', methods=['POST'])
 def chat():

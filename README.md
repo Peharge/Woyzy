@@ -219,16 +219,15 @@ ollama run mistral-nemo
 ## Demo
 
 <p align="center">
-    <img src="./img-readme/Screenshot 2024-10-25 161951.png" width="400"/>
-    <img src="./img-readme/Screenshot 2024-10-26 144030.png" width="400"/>
-    <img src="./img-readme/Screenshot 2024-10-26 150253.png" width="400"/>
-    <img src="./img-readme/Screenshot 2024-10-26 161146.png" width="400"/>
+    <img src="./img-readme/img1.png" width="400"/>
+    <img src="./img-readme/woyzy-gif5.gif" width="400"/>
+    <img src="./img-readme/woyzy-gif4.gif" width="400"/>
+    <img src="./img-readme/woyzy-gif7.gif" width="400"/>
+    <img src="./img-readme/img2.png" width="400"/>
+    <img src="./img-readme/img3.png" width="400"/>
+    <img src="./img-readme/woyzy-gif8.gif" width="400"/>
+    <img src="./img-readme/img4.png" width="400"/>
 </p>
-
-<video controls width="600">
-  <source src="woyzy-video0001-0300.mkv" type="video/mkv">
-  Ihr Browser unterstützt das Video-Element nicht.
-</video>
 
 ## Demo-text
 
