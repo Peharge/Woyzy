@@ -57,7 +57,8 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 ## News
 
 - **[2024.10.24]** Start ;-)
-- **[2024.10.28]** Erhältlich mit Llama3 + [1.Demo](#demo)
+- **[2024.10.28]** Erhältlich mit Llama3 + [Demo](#demo-text)
+- **[2024.10.28]** Neue UI + [Demo](#demo)
 
 ## Inhaltsverzeichnis
 - [Versionen](#versionen)
