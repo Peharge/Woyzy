@@ -225,9 +225,10 @@ ollama run mistral-nemo
     <img src="./img-readme/img1.png" width="400"/>
     <img src="./img-readme/woyzy-gif5.gif" width="400"/>
     <img src="./img-readme/woyzy-gif4.gif" width="400"/>
-    <img src="./img-readme/woyzy-gif7.gif" width="400"/>
     <img src="./img-readme/img2.png" width="400"/>
-    <img src="./img-readme/img3.png" width="400"/>
+    <img src="./img-readme/img6.png" width="400"/>
+    <img src="./img-readme/img5.png" width="400"/>
+    <img src="./img-readme/woyzy-gif7.gif" width="400"/>
     <img src="./img-readme/woyzy-gif8.gif" width="400"/>
     <img src="./img-readme/img4.png" width="400"/>
 </p>
