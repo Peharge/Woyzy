@@ -450,8 +450,6 @@ Hinweis: Das Theaterstück "Woyzeck" wurde von Georg Büchner 1827/28 geschriebe
 </div>
 <br>
 
-...
-
 ## Checkliste
 
 Hier ist die To-Do-Liste für die wichtigsten Tools und Aufgaben im Projekt:
