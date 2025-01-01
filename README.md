@@ -34,7 +34,10 @@
 <br>
 </div>
 
-# Woyzy
+# _Woyzy_
+
+> ⚠️ Wichtige Warnung: Vorsicht vor Fake-Accounts! ⚠️
+Es gibt Hinweise darauf, dass Fake-Accounts versuchen könnten, dieses Projekt fälschlicherweise darzustellen. Bitte geben Sie keine persönlichen Daten an unbekannte Personen weiter und verlassen Sie sich nur auf Inhalte, die direkt aus diesem Repository stammen. Melden Sie umfangreiche Aktivitäten oder Accounts umgehend an GitHub oder an das Projektteam.
 
 Willkommen zu Woyzy – deinem Woyzeck-KI-Gefährten!
 
