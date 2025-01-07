@@ -56,7 +56,6 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 
 [Hier klicken, um die Audio-Datei herunterzuladen](output_20241025195644_xtts.wav)
 
-
 ## News
 
 - **[2024.10.24]** Start ;-)
