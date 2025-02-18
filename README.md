@@ -63,6 +63,8 @@ Fragen zum Deutschbuch? Woyzy hat die Antwort! (Oder zumindest eine sehr überze
 - **[2024.10.30]** Neue UI + [Demo](#demo)
 - **[2024.11.05]** Erhältlich mit qwen2.5 (+18 bilarden parameter) + [Demo](#demo-text) + Erhältlich mit Chat++ 5 Ultra
 
+Soon...
+
 ## Inhaltsverzeichnis
 - [Versionen](#versionen)
 - [Installation](#installation)
