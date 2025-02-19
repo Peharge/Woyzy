@@ -469,7 +469,7 @@ Nicht erledigt ❌ | Erledigt (min. 1 Monat) ✔️ | Verbesserungen nötig 🔧
 
 ## Design
 
-...
+soon.....
 
 ## Transformer
 
